@@ -1,0 +1,445 @@
+empfehlung,anzahl,schluessel,fach,studienbereich,typ
+Informatik,88,informatik,079,Informatik,eindeutig
+Elektrotechnik und Informationstechnik,77,,,,kein_treffer
+Technische Informatik,58,technische informatik,123,Informatik,eindeutig
+Rechtswissenschaft (Jura),57,rechtswissenschaft,135,Rechtswissenschaften,eindeutig
+Soziale Arbeit,49,soziale arbeit,208,Sozialwesen,eindeutig
+Politikwissenschaft,46,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Architektur,45,architektur,013,"Architektur, Innenarchitektur",eindeutig
+Bauingenieurwesen,45,bauingenieurwesen,017,Bauingenieurwesen,eindeutig
+Innenarchitektur,45,innenarchitektur,242,"Architektur, Innenarchitektur",eindeutig
+Landschaftsarchitektur,45,,,,kein_treffer
+Volkswirtschaftslehre (VWL),41,volkswirtschaftslehre,175,Wirtschaftswissenschaften,eindeutig
+Wirtschaftsinformatik,40,wirtschaftsinformatik,277,Informatik,eindeutig
+Mechatronik,37,mechatronik,380,Ingenieurwesen allgemein,eindeutig
+Wirtschaftsmathematik,36,wirtschaftsmathematik,276,Mathematik,eindeutig
+Psychologie,33,psychologie,132,Psychologie,eindeutig
+Umweltchemie,30,,,,kein_treffer
+Umweltwissenschaften,30,,,,kein_treffer
+Rechtswissenschaft,29,rechtswissenschaft,135,Rechtswissenschaften,eindeutig
+Geschichtswissenschaft,27,,,,kein_treffer
+Germanistik,25,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Biochemie,25,biochemie,025,Chemie,eindeutig
+Chemie,23,chemie,032,Chemie,eindeutig
+Soziologie,23,soziologie,149,Sozialwissenschaften/Soziologie,eindeutig
+Betriebswirtschaftslehre (BWL),22,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Anglistik / Amerikanistik,21,anglistik,008,"Anglistik, Amerikanistik",eindeutig
+Journalistik,20,,,,kein_treffer
+Biotechnologie,20,biotechnologie,282,Biologie,eindeutig
+Stadtplanung / Raumplanung,19,,,,kein_treffer
+Medien- und Kommunikationswissenschaft,19,,,,kein_treffer
+Geschichte,18,geschichte,068,Geschichte,eindeutig
+Wirtschaftswissenschaften (BWL/VWL),18,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Biologie,18,biologie,026,Biologie,eindeutig
+Humanmedizin,18,,,,kein_treffer
+Anglistik,17,anglistik,008,"Anglistik, Amerikanistik",eindeutig
+Kindheitspädagogik,16,kindheitspädagogik,365,Erziehungswissenschaften,eindeutig
+Informatik (B.Sc.),15,informatik,079,Informatik,eindeutig
+Erziehungswissenschaft,15,,,,kein_treffer
+Stadtplanung,15,,,,kein_treffer
+Wirtschaftswissenschaften,15,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Kommunikations- und Medienwissenschaft,14,,,,kein_treffer
+Wirtschaftsingenieurwesen,14,,,,kein_treffer
+Physiotherapie,14,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Erziehungswissenschaft / Pädagogik (B.A.),13,,,,kein_treffer
+Gesundheitspädagogik,13,gesundheitspädagogik,195,Gesundheitswissenschaften,eindeutig
+Medieninformatik,13,medieninformatik,121,Informatik,eindeutig
+Physik (B.Sc.),13,physik,128,"Physik, Astronomie",eindeutig
+Gesundheitswissenschaften,13,,,,kein_treffer
+Technische Informatik / Computer Engineering,12,technische informatik,123,Informatik,eindeutig
+Computerlinguistik,12,computerlinguistik,160,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,eindeutig
+Volkswirtschaftslehre,12,volkswirtschaftslehre,175,Wirtschaftswissenschaften,eindeutig
+Mathematik,12,mathematik,105,Mathematik,eindeutig
+Computervisualistik,11,,,,kein_treffer
+Physik,11,physik,128,"Physik, Astronomie",eindeutig
+Sportwissenschaft,11,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Robotik (bzw. Robotik und Autonome Systeme),10,,,,kein_treffer
+Robotik,10,,,,kein_treffer
+Erziehungswissenschaft / Pädagogik,10,,,,kein_treffer
+Ergotherapie (B.Sc.),9,ergotherapie,549,Gesundheitswissenschaften,eindeutig
+Lehramt Deutsch und Englisch,9,,,,kein_treffer
+Komparatistik (Allgemeine und Vergleichende Literaturwissenschaft),9,,,,kein_treffer
+"Philosophy, Politics and Economics (PPE)",9,,,,kein_treffer
+Finanzwirtschaft,9,,,,kein_treffer
+Anglistik und Amerikanistik,8,,,,kein_treffer
+Physiotherapie (B.Sc.),8,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Umweltingenieurwesen / Umwelttechnik,8,,,,kein_treffer
+Soziologie bzw. Sozialwissenschaften,8,soziologie,149,Sozialwissenschaften/Soziologie,eindeutig
+Journalistik / Journalismus,8,,,,kein_treffer
+Psychologie (B.Sc.),7,psychologie,132,Psychologie,eindeutig
+Chemie (B.Sc.),7,chemie,032,Chemie,eindeutig
+Biologie (B.Sc.),7,biologie,026,Biologie,eindeutig
+Verwaltungswissenschaft,7,verwaltungswissenschaft,172,Verwaltungswissenschaften,eindeutig
+Anglistik / English Studies,7,anglistik,008,"Anglistik, Amerikanistik",eindeutig
+Game Engineering / Spieleentwicklung,7,,,,kein_treffer
+Elektrotechnik und Informationstechnik (B.Sc.),7,,,,kein_treffer
+Betriebswirtschaftslehre (BWL) mit Schwerpunkt Finanzen,7,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Betriebswirtschaftslehre (BWL) mit Schwerpunkt Finance,7,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Sonderpädagogik / Heilpädagogik,7,sonderpädagogik,190,Erziehungswissenschaften,eindeutig
+Gesundheitswissenschaften / Public Health,6,,,,kein_treffer
+Umweltwissenschaften (Environmental Science),6,,,,kein_treffer
+Lehramt Biologie,6,,,,kein_treffer
+Vergleichende Literaturwissenschaft,6,,,,kein_treffer
+Lehramt Deutsch/Englisch,6,,,,kein_treffer
+Robotik und Autonome Systeme,6,,,,kein_treffer
+Mathematik oder Wirtschaftsmathematik,6,mathematik,105,Mathematik,eindeutig
+Allgemeine und Vergleichende Literaturwissenschaft,6,,,,kein_treffer
+Betriebswirtschaftslehre,6,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Elektrotechnik,6,elektrotechnik,048,Elektrotechnik und Informationstechnik,eindeutig
+Germanistik (Deutsche Literaturwissenschaft),6,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Wirtschaftswissenschaften (WiWi),6,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Soziale Arbeit (B.A.),5,soziale arbeit,208,Sozialwesen,eindeutig
+Sozialwissenschaften,5,sozialwissenschaften,148,Sozialwissenschaften/Soziologie,eindeutig
+Umweltwissenschaften (Environmental Sciences),5,,,,kein_treffer
+Chemie (mit Schwerpunkt Umwelt- oder Analytische Chemie),5,chemie,032,Chemie,eindeutig
+Finanzwirtschaft (Finance),5,,,,kein_treffer
+Ergotherapie (Bachelor),5,ergotherapie,549,Gesundheitswissenschaften,eindeutig
+Finanz- und Wirtschaftsmathematik,5,,,,kein_treffer
+Internationale Beziehungen,5,,,,kein_treffer
+Pädagogik der Kindheit / Kindheitspädagogik (B.A.),5,,,,kein_treffer
+Lehramt Sport und Biologie (Grundschule oder Sekundarstufe),5,,,,kein_treffer
+Wirtschaftsmathematik / Finanzmathematik,5,wirtschaftsmathematik,276,Mathematik,eindeutig
+Verwaltungswissenschaft / Public Policy,5,verwaltungswissenschaft,172,Verwaltungswissenschaften,eindeutig
+Erziehungswissenschaft (Pädagogik),5,,,,kein_treffer
+Game Engineering / Game Development (z. B. Informatik mit Schwerpunkt Games),4,,,,kein_treffer
+Lehramt für Grund- oder Förderschule (Fächer: Sport und Biologie),4,,,,kein_treffer
+Technische Informatik (Computer Engineering),4,technische informatik,123,Informatik,eindeutig
+Germanistik (Deutsche Literatur und Sprachwissenschaft),4,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Journalismus,4,,,,kein_treffer
+Germanistik (Deutsche Literatur und Sprache),4,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Lehramt Sport und Biologie,4,,,,kein_treffer
+Pädagogik der Kindheit / Kindheitspädagogik,4,,,,kein_treffer
+Maschinenbau,4,maschinenbau,104,Maschinenbau/Verfahrenstechnik,eindeutig
+Biotechnologie / Umweltbiotechnologie,4,biotechnologie,282,Biologie,eindeutig
+Allgemeine und vergleichende Literaturwissenschaft,4,,,,kein_treffer
+Sportwissenschaft (Schwerpunkt Gesundheit und Prävention),4,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Robotik und autonome Systeme,4,,,,kein_treffer
+Komparatistik (Vergleichende Literaturwissenschaft),4,,,,kein_treffer
+Lehramt für Biologie und Sport,4,,,,kein_treffer
+Ergotherapie,4,ergotherapie,549,Gesundheitswissenschaften,eindeutig
+Lehramt (mit den Fächern Biologie und Pädagogik),4,,,,kein_treffer
+Public Policy / Verwaltungswissenschaft,4,,,,kein_treffer
+Computerspieleentwicklung,4,,,,kein_treffer
+Gesundheitsförderung,4,,,,kein_treffer
+Stadtplanung / Urbanistik,4,,,,kein_treffer
+Physik oder Technische Physik,3,physik,128,"Physik, Astronomie",eindeutig
+Heilpädagogik / Sonderpädagogik,3,,,,kein_treffer
+Public Policy bzw. Verwaltungswissenschaft,3,,,,kein_treffer
+Medizin,3,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Game Engineering,3,,,,kein_treffer
+Sozialpädagogik,3,sozialpädagogik,245,Sozialwesen,eindeutig
+Sportwissenschaft (Schwerpunkt Prävention und Gesundheit),3,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Gesundheitswissenschaften (Public Health),3,,,,kein_treffer
+Biologie (mit Schwerpunkt Ökologie oder Mikrobiologie),3,biologie,026,Biologie,eindeutig
+Gesundheitsförderung und Prävention,3,,,,kein_treffer
+Heilpädagogik,3,,,,kein_treffer
+Sportwissenschaft (Schwerpunkt Gesundheit/Prävention),3,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Journalistik / Medien- und Kommunikationswissenschaft,3,,,,kein_treffer
+Games Engineering / Spieleentwicklung,3,,,,kein_treffer
+Stadt- und Raumplanung,3,,,,kein_treffer
+Journalistik / Journalismus (bzw. Medien- und Kommunikationswissenschaft),3,,,,kein_treffer
+Physik oder Technische Mathematik,3,physik,128,"Physik, Astronomie",eindeutig
+Spieleentwicklung,3,,,,kein_treffer
+Sozialwissenschaften / Soziologie,3,sozialwissenschaften,148,Sozialwissenschaften/Soziologie,eindeutig
+Lehramt (z. B. mit Biologie und Pädagogik),3,,,,kein_treffer
+Physiotherapie (Bachelor),3,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Umwelttechnik / Umweltingenieurwesen,3,umwelttechnik,457,Maschinenbau/Verfahrenstechnik,eindeutig
+Sonderpädagogik,3,sonderpädagogik,190,Erziehungswissenschaften,eindeutig
+Sportwissenschaft (Schwerpunkt Prävention und Rehabilitation),2,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Game Design / Game Development (z. B. Games Engineering),2,,,,kein_treffer
+Gesundheitswissenschaften / Gesundheitsförderung,2,,,,kein_treffer
+Physiotherapie (dual oder an einer Hochschule),2,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Mechatronik / Robotik,2,mechatronik,380,Ingenieurwesen allgemein,eindeutig
+Robotik (bzw. Mechatronik und Robotik),2,,,,kein_treffer
+Vergleichende Literaturwissenschaft (Komparatistik),2,,,,kein_treffer
+Medienwissenschaft,2,medienwissenschaft,302,Medienwissenschaft,eindeutig
+Lehramt Biologie und Sport (Grundschule oder Sekundarstufe),2,,,,kein_treffer
+Humanmedizin (mit Schwerpunkt Kinder- und Jugendmedizin),2,,,,kein_treffer
+"Physiotherapie (dual oder an einer Hochschule, B.Sc.)",2,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Öffentliche Verwaltung,2,,,,kein_treffer
+Kommunikationswissenschaft,2,kommunikationswissenschaft,303,Kommunikationswissenschaft/Publizistik,eindeutig
+Soziale Arbeit mit Schwerpunkt Kindheits- und Jugendpädagogik (z. B. Pädagogik der Kindheit und Jugend),2,soziale arbeit,208,Sozialwesen,eindeutig
+Pflegewissenschaft mit Schwerpunkt Kinderkrankenpflege,2,pflegewissenschaft,234,Gesundheitswissenschaften,eindeutig
+Sprachwissenschaft,2,,,,kein_treffer
+Germanistik (Deutsche Literatur- und Sprachwissenschaft),2,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Erziehungswissenschaften (Pädagogik),2,erziehungswissenschaften (pädagogik),052,Erziehungswissenschaften,eindeutig
+Lehramt mit den Fächern Biologie und Sport,2,,,,kein_treffer
+Wirtschaftswissenschaften (VWL/BWL),2,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Linguistik,2,,,,kein_treffer
+Medizin (Humanmedizin) mit Ziel Kinder- und Jugendmedizin,2,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Germanistik (Deutsche Philologie),2,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Lehramt Grundschule mit Fächern Sport und Sachunterricht (Biologie),2,,,,kein_treffer
+Lebensmittelchemie bzw. Biochemie,2,lebensmittelchemie,096,Chemie,eindeutig
+Politikwissenschaft / Internationale Beziehungen,2,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Biologie auf Lehramt,2,,,,kein_treffer
+Mathematik oder Data Science,2,mathematik,105,Mathematik,eindeutig
+Betriebswirtschaftslehre mit Schwerpunkt Finance,2,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Lehramt (z. B. mit den Fächern Biologie und Pädagogik),2,,,,kein_treffer
+Finance / Finanzwirtschaft,2,,,,kein_treffer
+Geoökologie,2,geoökologie,385,Geowissenschaften (ohne Geographie),eindeutig
+"Physiotherapie (dual oder an der Hochschule, B.Sc.)",2,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Physik (mit Nebenfach Informatik),2,physik,128,"Physik, Astronomie",eindeutig
+Soziologie / Sozialwissenschaften,2,soziologie,149,Sozialwissenschaften/Soziologie,eindeutig
+Stadt- und Regionalplanung,2,,,,kein_treffer
+Journalistik / Kommunikations- und Medienwissenschaft,2,,,,kein_treffer
+Anglistik / Amerikanistik (English Studies),2,anglistik,008,"Anglistik, Amerikanistik",eindeutig
+Verwaltungswissenschaft (Public Management),2,verwaltungswissenschaft,172,Verwaltungswissenschaften,eindeutig
+Pflegewissenschaft,2,pflegewissenschaft,234,Gesundheitswissenschaften,eindeutig
+Heilpädagogik / Inklusive Pädagogik,2,,,,kein_treffer
+Wirtschaftsinformatik oder Informatik,2,wirtschaftsinformatik,277,Informatik,eindeutig
+Umweltwissenschaften / Umweltnaturwissenschaften,2,,,,kein_treffer
+"Biologie (mit Schwerpunkt Ökologie, Mikrobiologie oder Naturschutz)",2,biologie,026,Biologie,eindeutig
+Finanzwirtschaft (Banking & Finance),2,,,,kein_treffer
+Kognitionswissenschaft (Cognitive Science),2,,,,kein_treffer
+Liberal Arts and Sciences,2,,,,kein_treffer
+Germanistik (Deutsche Sprache und Literatur),2,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Sonderpädagogik / Rehabilitationspädagogik,2,sonderpädagogik,190,Erziehungswissenschaften,eindeutig
+Physik (mit Schwerpunkt Computational Physics),1,physik,128,"Physik, Astronomie",eindeutig
+Literaturwissenschaft,1,,,,kein_treffer
+Lehramt (z. B. Biologie und ein weiteres Fach),1,,,,kein_treffer
+Kindheitspädagogik / Bildung und Erziehung in der Kindheit (B.A.),1,kindheitspädagogik,365,Erziehungswissenschaften,eindeutig
+Biologie (Schwerpunkt Ökologie/Umweltbiologie),1,biologie,026,Biologie,eindeutig
+Biotechnologie / Chemieingenieurwesen mit Umweltschwerpunkt,1,biotechnologie,282,Biologie,eindeutig
+Sozialpädagogik / Pädagogik der Kindheit und Jugend (B.A.),1,sozialpädagogik,245,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie mit Pädagogik- bzw. Erziehungswissenschaftsanteilen),1,,,,kein_treffer
+Lehramt (Biologie und Pädagogik),1,,,,kein_treffer
+Informatik (mit Schwerpunkt/Vertiefung Games Engineering),1,informatik,079,Informatik,eindeutig
+Games Engineering / Spielentwicklung,1,,,,kein_treffer
+Sozialpädagogik / Kindheits- und Jugendpädagogik,1,sozialpädagogik,245,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie mit Pädagogik- oder Sozialkundefächern),1,,,,kein_treffer
+Game Design / Game Engineering (B.Sc.),1,,,,kein_treffer
+Soziale Arbeit mit Schwerpunkt Kindheit und Jugend bzw. Bildung und Erziehung in der Kindheit (Kindheitspädagogik),1,soziale arbeit,208,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie in Kombination mit Pädagogik-nahem Fach oder Sozialkunde),1,,,,kein_treffer
+"Game Engineering / Informatik mit Schwerpunkt Games (z. B. Game Development, Medieninformatik)",1,,,,kein_treffer
+Öffentliche Verwaltung / Public Management,1,,,,kein_treffer
+Lehramt (Grundschule oder Sekundarstufe I) mit den Fächern Biologie und Sport,1,,,,kein_treffer
+Gesundheits- und Sportwissenschaften bzw. Prävention und Gesundheitsförderung,1,,,,kein_treffer
+Medizin (alternativ Pflege- oder Hebammenwissenschaft),1,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Volkswirtschaftslehre (Economics),1,volkswirtschaftslehre,175,Wirtschaftswissenschaften,eindeutig
+Computerspielentwicklung,1,,,,kein_treffer
+Lehramt (Grundschule oder Sonderpädagogik) mit den Fächern Sport und Biologie,1,,,,kein_treffer
+Umwelt- und Verfahrenstechnik bzw. Nachhaltige Chemie/Ingenieurwesen,1,,,,kein_treffer
+Physiotherapie (Bachelor / Duales Studium),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Lehramt (z. B. Grundschule oder Gymnasium) mit den Fächern Sport und Biologie,1,,,,kein_treffer
+Sportwissenschaft (mit Schwerpunkt Gesundheit/Prävention),1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Soziale Arbeit mit Schwerpunkt Kindheits- und Jugendpädagogik bzw. Pädagogik der Kindheit,1,soziale arbeit,208,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie in Kombination mit Pädagogik- oder Sozialwissenschaftsfach),1,,,,kein_treffer
+Psychologie (B.Sc.) oder alternativ Gesundheits- bzw. Sozialwissenschaften,1,psychologie,132,Psychologie,eindeutig
+Biotechnologie bzw. Nachhaltige Chemie / Grüne Chemie,1,biotechnologie,282,Biologie,eindeutig
+Lehramt (Grundschule) mit den Fächern Biologie und Sport,1,,,,kein_treffer
+"Philosophie, Politik- oder Sozialwissenschaften (z. B. PPE)",1,philosophie,127,Philosophie,eindeutig
+Sportwissenschaft (mit Schwerpunkt Prävention und Rehabilitation),1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Lehramt für Sport und Biologie (z. B. Grundschule oder Sekundarstufe I),1,,,,kein_treffer
+Games Engineering (bzw. Medieninformatik mit Schwerpunkt Games),1,,,,kein_treffer
+Lehramt (Grundschule oder Sekundarstufe) mit den Fächern Biologie und Sport,1,,,,kein_treffer
+Gesundheitspädagogik / Gesundheitsförderung,1,gesundheitspädagogik,195,Gesundheitswissenschaften,eindeutig
+Mechatronik und Robotik,1,,,,kein_treffer
+Maschinenbau (Schwerpunkt Automatisierungstechnik),1,maschinenbau,104,Maschinenbau/Verfahrenstechnik,eindeutig
+Gesundheits- und Pflegewissenschaften mit Schwerpunkt Pädiatrie / Kinderkrankenpflege (primärqualifizierend),1,,,,kein_treffer
+Sportwissenschaft mit Schwerpunkt Prävention und Gesundheit,1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Medizin (Humanmedizin mit Ziel Kinder- und Jugendmedizin),1,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Gesundheits- und Pflegewissenschaft bzw. Gesundheitsförderung (B.Sc.),1,,,,kein_treffer
+"Physiotherapie (B.Sc., primärqualifizierend) bzw. Ergotherapie/Logopädie",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Lehramt mit Biologie und Sport,1,,,,kein_treffer
+Gesundheits- und Kindheitspädagogik bzw. Pädagogik der Kindheit (B.A.),1,,,,kein_treffer
+Sportwissenschaft mit Schwerpunkt Prävention und Gesundheit (B.Sc.),1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Humanmedizin (mit Perspektive Kinder- und Jugendmedizin),1,,,,kein_treffer
+Wirtschaftswissenschaften (BWL / VWL),1,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Game Design / Game Development (B.Sc. oder B.A.),1,,,,kein_treffer
+Pädagogik der Kindheit,1,,,,kein_treffer
+Journalismus / Publizistik,1,,,,kein_treffer
+Lehramt (z. B. Biologie mit Pädagogik- oder Sozialkunde-Bezug),1,,,,kein_treffer
+Lehramt mit Mathematik und Englisch,1,,,,kein_treffer
+Lehramt (z. B. mit dem Fach Biologie),1,,,,kein_treffer
+Biologie und Pädagogik auf Lehramt,1,,,,kein_treffer
+Lehramt Grundschule (Fächer Sport und Sachunterricht/Biologie),1,,,,kein_treffer
+"Physiotherapie (dual oder an einer Hochschule, z. B. mit Schwerpunkt Pädiatrie)",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Gesundheits- und Pflegewissenschaft bzw. Pflege (primärqualifizierend) mit Schwerpunkt Kinder,1,,,,kein_treffer
+Literatur- und Kulturwissenschaft bzw. Allgemeine und Vergleichende Literaturwissenschaft,1,,,,kein_treffer
+Lehramt Geschichte und Politik (Sozialkunde/Gemeinschaftskunde),1,,,,kein_treffer
+Physiotherapie (B.Sc. / Duales Studium),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Physiotherapie (dual/Bachelor),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Gesundheitsförderung / Gesundheitswissenschaften (Public Health),1,,,,kein_treffer
+Game Engineering bzw. Informatik mit Schwerpunkt Games (z. B. Game Engineering oder Computer Science and Games),1,,,,kein_treffer
+Physiotherapie (B.Sc. oder duales Studium),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Journalistik / Kommunikationswissenschaft,1,,,,kein_treffer
+Medien- und Kulturwissenschaft (oder Literatur- und Medienwissenschaft),1,,,,kein_treffer
+Robotik und Autonome Systeme (bzw. Robotics Engineering),1,,,,kein_treffer
+Informatik oder Wirtschaftsinformatik,1,informatik,079,Informatik,eindeutig
+Lehramt (z. B. Mathematik/Englisch oder Deutsch/Englisch),1,,,,kein_treffer
+Politikwissenschaft oder Internationale Beziehungen (ggf. mit Volkswirtschaft kombiniert),1,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Pädagogik der Kindheit / Frühpädagogik (B.A.),1,,,,kein_treffer
+Gesundheits- und Pflegepädagogik bzw. Gesundheitsförderung / Public Health (B.Sc.),1,,,,kein_treffer
+"Physiotherapie (B.Sc., Hochschulstudium) mit Option Kinderphysiotherapie",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Finanzwirtschaft und Banking,1,,,,kein_treffer
+Finanz- und Investmentmanagement,1,,,,kein_treffer
+Umweltnaturwissenschaften,1,,,,kein_treffer
+Lehramt (z. B. Biologie und Sozialpädagogik/Pädagogik),1,,,,kein_treffer
+Robotik und Autonome Systeme (bzw. Mechatronik und Robotik),1,,,,kein_treffer
+Physik oder Technomathematik,1,physik,128,"Physik, Astronomie",eindeutig
+"Robotik und Autonome Systeme (bzw. Robotics, Cognition, Intelligence)",1,,,,kein_treffer
+Soziale Arbeit oder Sozialwissenschaften (Soziologie),1,soziale arbeit,208,Sozialwesen,eindeutig
+Public Policy / Öffentliche Verwaltung (Verwaltungswissenschaft),1,,,,kein_treffer
+Lehramt mit dem Fach Biologie,1,,,,kein_treffer
+Games Engineering,1,,,,kein_treffer
+Physik (mit Schwerpunkt Computerphysik),1,physik,128,"Physik, Astronomie",eindeutig
+Robotik (bzw. Robotics and Autonomous Systems / Robotik und Autonome Systeme),1,,,,kein_treffer
+Umweltbiotechnologie,1,,,,kein_treffer
+Politikwissenschaft oder Internationale Beziehungen,1,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Finance und Accounting,1,,,,kein_treffer
+Banking and Finance,1,,,,kein_treffer
+International Business / Wirtschaftswissenschaften (Management und Economics),1,,,,kein_treffer
+Banking and Finance (Finanzwirtschaft),1,,,,kein_treffer
+Lehramt mit Biologie und Pädagogik,1,,,,kein_treffer
+Verwaltungswissenschaft (Public Administration),1,verwaltungswissenschaft,172,Verwaltungswissenschaften,eindeutig
+Lehramt für Sport und Biologie,1,,,,kein_treffer
+Informatik bzw. Data Science,1,informatik,079,Informatik,eindeutig
+Internationale Beziehungen / Politikwissenschaft (alternativ Medizin bei Interesse),1,,,,kein_treffer
+Geoökologie bzw. Hydrologie/Bodenkunde,1,geoökologie,385,Geowissenschaften (ohne Geographie),eindeutig
+Physiotherapie (Bachelor oder Duales Studium),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Lehramt (Grundschule oder Sekundarstufe) für Biologie und Sport,1,,,,kein_treffer
+Kinderkrankenpflege,1,,,,kein_treffer
+Stadtplanung (Raumplanung),1,,,,kein_treffer
+Wirtschaftswissenschaften / International Management,1,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Data Science,1,,,,kein_treffer
+Politikwissenschaft / International Relations,1,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Internationales Management bzw. Banking and Finance,1,,,,kein_treffer
+Biologie (mit Schwerpunkt Ökologie),1,biologie,026,Biologie,eindeutig
+Gesundheitsförderung / Public Health / Gesundheitswissenschaften (B.Sc.),1,,,,kein_treffer
+Humanmedizin (mit Schwerpunkt Kinder- und Jugendmedizin später),1,,,,kein_treffer
+Games Engineering / Medieninformatik,1,,,,kein_treffer
+Technische Informatik / Computer Engineering (B.Sc.),1,technische informatik,123,Informatik,eindeutig
+Game Development / Game Engineering (B.Sc.),1,,,,kein_treffer
+Physik (B.Sc.) mit Schwerpunkt Computational Physics,1,physik,128,"Physik, Astronomie",eindeutig
+Pädagogik der Kindheit / Frühkindliche Bildung (B.A.),1,,,,kein_treffer
+Lehramt Grundschule (Fächer z. B. Sport und Sachunterricht/Biologie),1,,,,kein_treffer
+Gesundheitswissenschaften / Public Health bzw. Gesundheitsförderung und Prävention (B.Sc.),1,,,,kein_treffer
+"Physiotherapie (B.Sc., dual oder an Hochschulen)",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Sportwissenschaft mit Schwerpunkt Prävention und Rehabilitation oder Kinder- und Jugendsport (B.Sc.),1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Angewandte Literatur- und Kulturwissenschaft bzw. Medien- und Kulturwissenschaft (z. B. mit Schwerpunkt Lektorat/Verlagswesen),1,,,,kein_treffer
+Stadtplanung / Städtebau,1,,,,kein_treffer
+Sportwissenschaft (B.Sc.) mit Schwerpunkt Gesundheit,1,sportwissenschaft,029,"Sport, Sportwissenschaft",eindeutig
+Gesundheitsförderung und Prävention (B.Sc.),1,,,,kein_treffer
+Öffentliche Verwaltung / Public Administration,1,,,,kein_treffer
+"Journalistik / Journalismus (z. B. in Dortmund, Eichstätt oder Leipzig)",1,,,,kein_treffer
+Soziale Arbeit mit Schwerpunkt Kindheit und Jugend bzw. Kindheitspädagogik (B.A.),1,soziale arbeit,208,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie mit Pädagogik- oder Sozialkunde-/Ethikfach),1,,,,kein_treffer
+Public Management / Öffentliche Verwaltung,1,,,,kein_treffer
+Finance,1,,,,kein_treffer
+Game Engineering / Game Development (Informatik mit Schwerpunkt Games),1,,,,kein_treffer
+"Lehramt (Biologie und Sport, z. B. für Grundschule oder Sekundarstufe I)",1,,,,kein_treffer
+Robotik (bzw. Robotics / Autonomous Systems),1,,,,kein_treffer
+"Finance (Finanzwirtschaft, z. B. B.Sc. Finance oder Banking & Finance)",1,,,,kein_treffer
+Betriebswirtschaftslehre (BWL) mit Schwerpunkt Finanzen oder Controlling,1,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+Wirtschaftsmathematik bzw. Finanzmathematik,1,wirtschaftsmathematik,276,Mathematik,eindeutig
+Game Engineering / Games Informatik (z. B. Informatik mit Schwerpunkt Game Development),1,,,,kein_treffer
+Literarisches Schreiben bzw. Kreatives Schreiben oder Vergleichende Literaturwissenschaft,1,,,,kein_treffer
+Game Engineering / Games Programming (z. B. an einer Hochschule oder FH),1,,,,kein_treffer
+Finanzwirtschaft / Banking and Finance,1,,,,kein_treffer
+Robotik / Autonome Systeme,1,,,,kein_treffer
+Allgemeine und Vergleichende Literaturwissenschaft (Komparatistik),1,,,,kein_treffer
+Physiotherapie (dualer oder primärqualifizierender Studiengang),1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Pädiatrische Pflege bzw. Pflegewissenschaft (Pflege B.Sc.),1,,,,kein_treffer
+Medizin (mit Ziel Kinder- und Jugendmedizin),1,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+"Ergotherapie oder Logopädie (akademisiert, B.Sc.)",1,ergotherapie,549,Gesundheitswissenschaften,eindeutig
+Biochemie oder Molekularbiologie (B.Sc.),1,biochemie,025,Chemie,eindeutig
+Journalismus / Kommunikationswissenschaft,1,,,,kein_treffer
+Medienwissenschaft / Publizistik,1,medienwissenschaft,302,Medienwissenschaft,eindeutig
+Lehramt (z. B. Biologie mit Pädagogik- oder Sozialkundefach),1,,,,kein_treffer
+Gesundheits- und Sozialwissenschaften bzw. Heilpädagogik / Inklusive Pädagogik,1,,,,kein_treffer
+Robotik und Autonome Systeme (B.Sc.),1,,,,kein_treffer
+Mechatronik (B.Sc.),1,mechatronik,380,Ingenieurwesen allgemein,eindeutig
+Physik oder Technomathematik (B.Sc.),1,physik,128,"Physik, Astronomie",eindeutig
+Wirtschaftsmathematik / Finanz- und Versicherungsmathematik,1,wirtschaftsmathematik,276,Mathematik,eindeutig
+Hebammenwissenschaft,1,hebammenwissenschaft,550,Gesundheitswissenschaften,eindeutig
+Lehramt (Grund- oder Förderschule) mit den Fächern Sport und Biologie,1,,,,kein_treffer
+Chemie (Bachelor of Science),1,chemie,032,Chemie,eindeutig
+Biologie (Bachelor of Science),1,biologie,026,Biologie,eindeutig
+Biotechnologie / Verfahrenstechnik mit Umweltschwerpunkt,1,biotechnologie,282,Biologie,eindeutig
+Public Policy / Öffentliche Verwaltung,1,,,,kein_treffer
+"Physiotherapie (dual oder berufsbegleitend, bzw. B.Sc. Physiotherapie)",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+"Pflege (B.Sc., primärqualifizierend) mit Option Kinderkrankenpflege",1,,,,kein_treffer
+Gesundheitsförderung / Public Health bzw. Sportwissenschaft mit Schwerpunkt Prävention und Kindergesundheit,1,,,,kein_treffer
+Public Management (Öffentliche Verwaltung),1,,,,kein_treffer
+Pflegewissenschaft beziehungsweise Pflege,1,,,,kein_treffer
+Finance und Banking,1,,,,kein_treffer
+Data Science / Informatik,1,,,,kein_treffer
+Betriebswirtschaftslehre (BWL) mit Schwerpunkt Finanzwirtschaft,1,betriebswirtschaftslehre,021,Wirtschaftswissenschaften,eindeutig
+"Politikwissenschaft, Philosophie oder Volkswirtschaft mit Sozialwissenschaften (z. B. PPE-ähnliche Studiengänge)",1,politikwissenschaft,129,Politikwissenschaft,eindeutig
+Games Engineering (Spieleentwicklung),1,,,,kein_treffer
+Angewandte Informatik (mit Schwerpunkt Computergrafik/Simulation),1,,,,kein_treffer
+Lehramt (z. B. Biologie mit Pädagogik- oder Sozialkunde-Kombination),1,,,,kein_treffer
+Gesundheits- und Sozialwissenschaften / Public Health,1,,,,kein_treffer
+Medizin (Schwerpunkt Kinder- und Jugendmedizin später),1,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Gesundheitsförderung / Public Health oder Sportwissenschaft mit Gesundheitsschwerpunkt (B.Sc.),1,,,,kein_treffer
+Maschinenbau (mit Schwerpunkt Mechatronik oder Automatisierungstechnik),1,maschinenbau,104,Maschinenbau/Verfahrenstechnik,eindeutig
+Game Engineering bzw. Informatik mit Schwerpunkt Games (z. B. Game Development / Computer Games Technology),1,,,,kein_treffer
+Lehramt (z. B. Biologie in Kombination mit einem zweiten Fach),1,,,,kein_treffer
+Gesundheits- und Sozialwissenschaften bzw. Public Health,1,,,,kein_treffer
+Wirtschaftswissenschaften / BWL (ggf. international),1,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Rechtswissenschaften (Jura),1,,,,kein_treffer
+Umweltingenieurwesen,1,,,,kein_treffer
+Lehramt (z. B. mit den Fächern Biologie und Pädagogik/Sozialwissenschaften),1,,,,kein_treffer
+Psychologie (bzw. Angewandte Psychologie),1,psychologie,132,Psychologie,eindeutig
+Komparatistik (Vergleichende Literaturwissenschaft) oder Literarisches Schreiben,1,,,,kein_treffer
+Journalismus / Journalistik,1,,,,kein_treffer
+Germanistik / Deutsche Literaturwissenschaft,1,germanistik,067,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",eindeutig
+Robotik und Autonome Systeme (bzw. Robotics),1,,,,kein_treffer
+Literarisches Schreiben / Kreatives Schreiben,1,,,,kein_treffer
+Finance (Finanzwirtschaft) bzw. BWL mit Schwerpunkt Finance,1,,,,kein_treffer
+Physiotherapie (dualer oder primärqualifizierender Studiengang) oder Therapiewissenschaften,1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+Gesundheitswissenschaften / Public Health (Bachelor),1,,,,kein_treffer
+Lehramt (z. B. mit Fachkombination Biologie und Sozialwissenschaften),1,,,,kein_treffer
+Soziale Arbeit mit Schwerpunkt Kindheits- und Jugendpädagogik (B.A.),1,soziale arbeit,208,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie und Pädagogik-nahe Fächer wie Sozialkunde oder Ethik),1,,,,kein_treffer
+Wirtschaftswissenschaften (Economics / International Business),1,wirtschaftswissenschaften,184,Wirtschaftswissenschaften,eindeutig
+Data Science / Wirtschaftsmathematik,1,,,,kein_treffer
+Mechatronik (oder Robotik),1,mechatronik,380,Ingenieurwesen allgemein,eindeutig
+Umwelttechnik bzw. Umweltingenieurwesen,1,umwelttechnik,457,Maschinenbau/Verfahrenstechnik,eindeutig
+Biochemie oder Chemische Biologie,1,biochemie,025,Chemie,eindeutig
+Lehramt (Biologie und Sport),1,,,,kein_treffer
+Lehramt Biologie und Pädagogik,1,,,,kein_treffer
+Lehramt (z. B. Biologie in Kombination mit Pädagogik-nahem Zweitfach),1,,,,kein_treffer
+Gesundheits- und Pflegepädagogik bzw. Public Health / Gesundheitsförderung,1,,,,kein_treffer
+Game Development,1,,,,kein_treffer
+Wirtschaftsmathematik / Wirtschaftswissenschaften,1,wirtschaftsmathematik,276,Mathematik,eindeutig
+Lebensmittelchemie oder Biotechnologie,1,lebensmittelchemie,096,Chemie,eindeutig
+Finanzmathematik bzw. Wirtschaftsmathematik,1,,,,kein_treffer
+Banking and Finance / Finanzwirtschaft,1,,,,kein_treffer
+International Business / Management,1,,,,kein_treffer
+Mathematik (oder Data Science),1,mathematik,105,Mathematik,eindeutig
+Umweltingenieurwesen bzw. Umwelttechnik,1,,,,kein_treffer
+Lebensmittelchemie oder Biochemie,1,lebensmittelchemie,096,Chemie,eindeutig
+Lehramt (mit den Fächern Biologie und Pädagogik/Sozialwissenschaften),1,,,,kein_treffer
+"Lehramt (z. B. Mathematik, Deutsch oder Englisch)",1,,,,kein_treffer
+Public Policy / Verwaltungswissenschaft (z. B. Öffentliche Verwaltung oder Governance),1,,,,kein_treffer
+Mechatronik (oder Robotik und Mechatronik),1,mechatronik,380,Ingenieurwesen allgemein,eindeutig
+Maschinenbau (mit Vertiefung Automatisierungstechnik/Robotik),1,maschinenbau,104,Maschinenbau/Verfahrenstechnik,eindeutig
+Informatik oder Data Science,1,informatik,079,Informatik,eindeutig
+"Internationale Politik- oder Sozialwissenschaften (z. B. Politikwissenschaft, Internationale Beziehungen)",1,,,,kein_treffer
+Public Management,1,,,,kein_treffer
+Sozialpädagogik / Pädagogik der Kindheit und Jugend,1,sozialpädagogik,245,Sozialwesen,eindeutig
+Lehramt (z. B. Biologie mit Pädagogik-nahem Zweitfach),1,,,,kein_treffer
+Psychologie (B.Sc.) oder alternativ Gesundheits- und Sozialwissenschaften,1,psychologie,132,Psychologie,eindeutig
+Umweltchemie / Chemie mit Schwerpunkt Umweltanalytik,1,,,,kein_treffer
+Biologie (Schwerpunkt Ökologie oder Mikrobiologie),1,biologie,026,Biologie,eindeutig
+Lebensmittelchemie bzw. Nachhaltige Chemie / Verfahrenstechnik (Umwelttechnik),1,lebensmittelchemie,096,Chemie,eindeutig
+Lehramt (mit dem Fach Biologie),1,,,,kein_treffer
+"Physiotherapie (B.Sc., dual oder an der Hochschule)",1,physiotherapie,552,Gesundheitswissenschaften,eindeutig
+"Gesundheits- und Pflegewissenschaft bzw. Pflege (B.Sc., primärqualifizierend)",1,,,,kein_treffer
+Medizin (Staatsexamen) mit Ziel Kinder- und Jugendmedizin,1,medizin,107,Humanmedizin (ohne Zahnmedizin),eindeutig
+Lehramt (Grundschule oder Sekundarstufe) mit den Fächern Sport und Biologie,1,,,,kein_treffer
+Finance (Finanzwirtschaft) bzw. Betriebswirtschaftslehre mit Schwerpunkt Finance,1,,,,kein_treffer
+Wirtschaftsingenieurwesen oder Wirtschaftsinformatik,1,,,,kein_treffer
+Pädagogik der Kindheit bzw. Kindheitspädagogik (B.A.),1,,,,kein_treffer
+Gesundheitswissenschaften bzw. Public Health / Prävention und Gesundheitsförderung (B.Sc.),1,,,,kein_treffer
+Humanmedizin (mit Spezialisierung Kinder- und Jugendmedizin),1,,,,kein_treffer
+Soziale Arbeit bzw. Sozialwissenschaften,1,soziale arbeit,208,Sozialwesen,eindeutig
+Biochemie / Biotechnologie,1,biochemie,025,Chemie,eindeutig
+Informatik (mit Schwerpunkt Computergrafik),1,informatik,079,Informatik,eindeutig
+Computational Science (Rechnergestützte Wissenschaften),1,,,,kein_treffer
+Lehramt (z. B. Biologie mit Pädagogik- bzw. Sozialkunde-Kombination),1,,,,kein_treffer
+"Gesundheits- und Sozialwissenschaften (z. B. Public Health, Gesundheitsförderung oder Heilpädagogik)",1,,,,kein_treffer
+Biochemie / Molekularbiologie,1,biochemie,025,Chemie,eindeutig
+Finanzwirtschaft (Banking and Finance),1,,,,kein_treffer
+Lehramt für Biologie und Pädagogik,1,,,,kein_treffer

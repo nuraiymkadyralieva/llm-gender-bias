@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# LaTeX-Hilfsdateien
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz

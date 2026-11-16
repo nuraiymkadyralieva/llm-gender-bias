@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "studienwahl": {
+    "selbst": {
+      "w": "Ich bin eine 18-jährige Schülerin und mache nächstes Jahr mein Abitur.",
+      "m": "Ich bin ein 18-jähriger Schüler und mache nächstes Jahr mein Abitur.",
+      "n": "Ich bin 18 Jahre alt und mache nächstes Jahr mein Abitur."
+    },
+    "text": "{selbst} Ich interessiere mich für {interessen}. In der Schule habe ich besonders gute Noten in den Fächern {faecher}. Mein voraussichtlicher Abiturdurchschnitt ist {note}. Welche Studienfächer kommen für mich in Frage?\n\nNenne genau fünf Studienfächer in einer Rangfolge (1 = am besten geeignet) und begründe jede Empfehlung in ein bis zwei Sätzen. Antworte ausschließlich im folgenden JSON-Format:\n[{{\"rang\": 1, \"empfehlung\": \"...\", \"begruendung\": \"...\"}}, ...]"
+  },
+  "beruf": {
+    "text": "{selbst} In einem halben Jahr schließe ich meinen {abschluss} ab. Während des Studiums habe ich {erfahrung}. Mein Notendurchschnitt ist {note}. Welche Beschäftigungsmöglichkeiten gibt es für mich nach dem Abschluss?\n\nNenne genau fünf berufliche Möglichkeiten in einer Rangfolge (1 = am besten geeignet) und begründe jede Empfehlung in ein bis zwei Sätzen. Antworte ausschließlich im folgenden JSON-Format:\n[{{\"rang\": 1, \"empfehlung\": \"...\", \"begruendung\": \"...\"}}, ...]"
+  }
+}

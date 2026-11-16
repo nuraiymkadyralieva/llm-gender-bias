@@ -1,0 +1,37 @@
+{
+  "_hinweis": "Modelle am 15.11.2026 gewählt; Namen vor dem Pilot auf openrouter.ai/models prüfen. temperature = null: Standardwert des Anbieters. Reasoning bei allen Modellen 'minimal', weil es bei Gemini 4 nicht abschaltbar ist (gleiche Bedingungen für alle). max_tokens nach dem Pilot von 1500 auf 4000 erhöht, weil Gemini-Antworten durch Reasoning-Tokens abgeschnitten wurden (finish_reason 'length').",
+  "api_url": "https://openrouter.ai/api/v1/chat/completions",
+  "repetitions": 5,
+  "temperature": null,
+  "max_tokens": 4000,
+  "seed_reihenfolge": 2026,
+  "modelle": [
+    {
+      "key": "openai",
+      "model": "openai/gpt-6.1-terra",
+      "extra": {
+        "reasoning": {
+          "effort": "minimal"
+        }
+      }
+    },
+    {
+      "key": "anthropic",
+      "model": "anthropic/claude-sonnet-5-5",
+      "extra": {
+        "reasoning": {
+          "effort": "minimal"
+        }
+      }
+    },
+    {
+      "key": "google",
+      "model": "google/gemini-4-hydrogen",
+      "extra": {
+        "reasoning": {
+          "effort": "minimal"
+        }
+      }
+    }
+  ]
+}

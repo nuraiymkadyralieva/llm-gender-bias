@@ -1,0 +1,265 @@
+faechergruppe,studienbereich,fach_schluessel,studienfach,studierende_w,studierende_gesamt,frauenanteil
+Geisteswissenschaften,Geisteswissenschaften allgemein,004,Interdisziplinäre Studien (Schwerpunkt Geisteswissenschaften),14022,20175,0.695
+Geisteswissenschaften,Geisteswissenschaften allgemein,090,Lernbereich Geisteswissenschaften,7061,8368,0.8438
+Geisteswissenschaften,"Evang. Theologie, -Religionslehre",161,Diakoniewissenschaft,143,242,0.5909
+Geisteswissenschaften,"Evang. Theologie, -Religionslehre",544,"Evang. Religionspädagogik, kirchliche Bildungsarbeit",380,550,0.6909
+Geisteswissenschaften,"Evang. Theologie, -Religionslehre",053,"Evang. Theologie, -Religionslehre",3951,6783,0.5825
+Geisteswissenschaften,"Kath. Theologie, -Religionslehre",162,Caritaswissenschaft,43,77,0.5584
+Geisteswissenschaften,"Kath. Theologie, -Religionslehre",545,"Kath. Religionspädagogik, kirchliche Bildungsarbeit",348,535,0.6505
+Geisteswissenschaften,"Kath. Theologie, -Religionslehre",086,"Kath. Theologie, -Religionslehre",2738,5144,0.5323
+Geisteswissenschaften,Philosophie,169,Ethik,771,1121,0.6878
+Geisteswissenschaften,Philosophie,127,Philosophie,7333,16332,0.449
+Geisteswissenschaften,Philosophie,136,Religionswissenschaft,781,1323,0.5903
+Geisteswissenschaften,Geschichte,272,Alte Geschichte,105,224,0.4688
+Geisteswissenschaften,Geschichte,012,Archäologie,3060,5437,0.5628
+Geisteswissenschaften,Geschichte,068,Geschichte,13106,29999,0.4369
+Geisteswissenschaften,Geschichte,273,Mittlere und neuere Geschichte,332,750,0.4427
+Geisteswissenschaften,Geschichte,548,Ur- und Frühgeschichte,501,914,0.5481
+Geisteswissenschaften,Geschichte,183,Wirtschafts-/Sozialgeschichte,102,187,0.5455
+Geisteswissenschaften,Geschichte,275,Wissenschaftsgeschichte/Technikgeschichte,9,26,0.3462
+Geisteswissenschaften,Informations- und Bibliothekswissenschaften,022,Informations- und Bibliothekswissenschaften (nicht für Verwaltungsfachhochschulen),1951,2523,0.7733
+Geisteswissenschaften,Informations- und Bibliothekswissenschaften,037,Archiv- und Dokumentationswissenschaft,76,134,0.5672
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,188,Allgemeine Literaturwissenschaft,3663,4597,0.7968
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,152,Allgemeine Sprachwissenschaft,3641,5072,0.7179
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,284,Angewandte Sprachwissenschaft,3117,4133,0.7542
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,018,Berufsbezogene Fremdsprachenausbildung,678,1031,0.6576
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,160,Computerlinguistik,1415,2859,0.4949
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",031,Byzantinistik,28,55,0.5091
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",070,Griechisch,161,350,0.46
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",005,Klassische Philologie,214,379,0.5646
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",095,Latein,742,1284,0.5779
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",043,Neugriechisch,41,59,0.6949
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",034,Dänisch,40,54,0.7407
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",271,Deutsch als Fremdsprache oder als Zweitsprache,2879,3524,0.817
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",067,Germanistik/Deutsch,47439,60135,0.7889
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",189,Niederdeutsch,3,6,0.5
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",119,Niederländisch,137,209,0.6555
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",120,"Nordistik/Skandinavistik (Nordische Philologie, Einzelsprachen a.n.g.)",577,824,0.7002
+Geisteswissenschaften,"Anglistik, Amerikanistik",006,Amerikanistik/Amerikakunde,2044,3043,0.6717
+Geisteswissenschaften,"Anglistik, Amerikanistik",008,Anglistik/Englisch,33282,46972,0.7085
+Geisteswissenschaften,Romanistik,059,Französisch,2814,3598,0.7821
+Geisteswissenschaften,Romanistik,084,Italienisch,541,731,0.7401
+Geisteswissenschaften,Romanistik,131,Portugiesisch,38,63,0.6032
+Geisteswissenschaften,Romanistik,137,"Romanistik (Roman. Philologie, Einzelsprachen a.n.g.)",1428,1901,0.7512
+Geisteswissenschaften,Romanistik,150,Spanisch,2405,3332,0.7218
+Geisteswissenschaften,"Slawistik, Baltistik, Finno-Ugristik",016,Baltistik,8,9,0.8889
+Geisteswissenschaften,"Slawistik, Baltistik, Finno-Ugristik",056,Finno-Ugristik,62,98,0.6327
+Geisteswissenschaften,"Slawistik, Baltistik, Finno-Ugristik",146,"Slawistik (Slaw. Philologie, ohne Sorabistik)",1122,1641,0.6837
+Geisteswissenschaften,"Slawistik, Baltistik, Finno-Ugristik",207,Sorabistik,16,30,0.5333
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,001,Ägyptologie,311,528,0.589
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,002,Afrikanistik,710,1259,0.5639
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,010,Arabisch/Arabistik,301,487,0.6181
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,015,Außereuropäische Sprachen und Kulturen in Ozeanien und Amerika,92,157,0.586
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,073,Judaistik/Hebräisch,267,450,0.5933
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,078,Indologie,61,111,0.5495
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,081,Iranistik,120,209,0.5742
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,083,Islamwissenschaft,696,1084,0.6421
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,085,Japanologie,1374,2416,0.5687
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,180,Kaukasistik,,,
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,122,Orientalistik/Altorientalistik,441,825,0.5345
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,145,Sinologie/Koreanistik,1910,2741,0.6968
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,158,Turkologie,243,347,0.7003
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,187,Asiatische Sprachen und Kulturen/Asienwissenschaften,1346,2051,0.6563
+Geisteswissenschaften,Kulturwissenschaften i.e.S.,024,Europäische Ethnologie und Kulturwissenschaft,2566,3494,0.7344
+Geisteswissenschaften,Kulturwissenschaften i.e.S.,173,Ethnologie,2356,3352,0.7029
+Geisteswissenschaften,Kulturwissenschaften i.e.S.,174,Volkskunde,488,678,0.7198
+Geisteswissenschaften,Islamische Studien/Islamische Theologie,292,Islamische Studien/Islamische Theologie,512,938,0.5458
+Geisteswissenschaften,Medienwissenschaft,302,Medienwissenschaft,9829,13350,0.7363
+"Mathematik, Naturwissenschaften","Mathematik, Naturwissenschaften allgemein",049,Interdisziplinäre Studien (Schwerpunkt Naturwissenschaften),5183,10241,0.5061
+"Mathematik, Naturwissenschaften","Mathematik, Naturwissenschaften allgemein",186,Lernbereich Naturwissenschaften/Sachunterricht,4965,6068,0.8182
+"Mathematik, Naturwissenschaften","Mathematik, Naturwissenschaften allgemein",019,Orientierungsstudium MINT,58,175,0.3314
+"Mathematik, Naturwissenschaften","Mathematik, Naturwissenschaften allgemein",312,Statistik,1905,5602,0.3401
+"Mathematik, Naturwissenschaften",Mathematik,105,Mathematik,21305,46720,0.456
+"Mathematik, Naturwissenschaften",Mathematik,118,Technomathematik,992,3325,0.2983
+"Mathematik, Naturwissenschaften",Mathematik,276,Wirtschaftsmathematik,2059,5427,0.3794
+"Mathematik, Naturwissenschaften","Physik, Astronomie",014,Astrophysik und Astronomie,245,729,0.3361
+"Mathematik, Naturwissenschaften","Physik, Astronomie",128,Physik,12656,42999,0.2943
+"Mathematik, Naturwissenschaften",Chemie,025,Biochemie,5664,9037,0.6268
+"Mathematik, Naturwissenschaften",Chemie,032,Chemie,16247,35670,0.4555
+"Mathematik, Naturwissenschaften",Chemie,096,Lebensmittelchemie,1151,1747,0.6588
+"Mathematik, Naturwissenschaften",Pharmazie,126,Pharmazie,11365,15845,0.7173
+"Mathematik, Naturwissenschaften",Biologie,009,Anthropologie (Humanbiologie),473,618,0.7654
+"Mathematik, Naturwissenschaften",Biologie,026,Biologie,37376,55860,0.6691
+"Mathematik, Naturwissenschaften",Biologie,300,Biomedizin,2906,3995,0.7274
+"Mathematik, Naturwissenschaften",Biologie,282,Biotechnologie,8087,13409,0.6031
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),065,Geologie/Paläontologie,173,351,0.4929
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),066,Geophysik,679,1428,0.4755
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),385,Geoökologie,671,1189,0.5643
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),039,Geowissenschaften allgemein,3946,9094,0.4339
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),110,Meteorologie,534,1214,0.4399
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),111,Mineralogie,85,184,0.462
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),124,Ozeanographie,8,17,0.4706
+"Mathematik, Naturwissenschaften",Geographie,050,Geographie/Erdkunde,10798,20741,0.5206
+"Mathematik, Naturwissenschaften",Geographie,283,Landschaftsökologie/Biogeographie,766,1290,0.5938
+"Mathematik, Naturwissenschaften",Geographie,178,Wirtschafts-/Sozialgeographie,201,404,0.4975
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,549,Ergotherapie,731,817,0.8947
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,195,Gesundheitspädagogik,5242,6663,0.7867
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,550,Hebammenwissenschaft,6386,6457,0.989
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,551,Logopädie/Sprachtherapie,951,1000,0.951
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,232,Gesundheitswissenschaft/-management,32075,43645,0.7349
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,234,Pflegewissenschaft/-management,12266,16065,0.7635
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,552,Physiotherapie,2813,4471,0.6292
+Humanmedizin/Gesundheitswissenschaften,Humanmedizin (ohne Zahnmedizin),107,Medizin (Allgemein-Medizin),78440,120553,0.6507
+Humanmedizin/Gesundheitswissenschaften,Zahnmedizin,185,Zahnmedizin,10879,15753,0.6906
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Veterinärmedizin,156,Tiermedizin/Veterinärmedizin,6877,7888,0.8718
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Landschaftsgestaltung/ Naturschutz,093,Landschaftsgestaltung,3101,5130,0.6045
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Landschaftsgestaltung/ Naturschutz,064,Naturschutz,884,1453,0.6084
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",138,Agrarbiologie,557,1110,0.5018
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",125,Agrarökonomie,831,2080,0.3995
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",003,Agrarwissenschaft/Landwirtschaft,6360,13305,0.478
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",028,Brauwesen/Getränketechnologie,104,429,0.2424
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",060,Gartenbau,873,1936,0.4509
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",097,Lebensmitteltechnologie,1781,3128,0.5694
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",220,Milch- und Molkereiwirtschaft,17,42,0.4048
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",353,Pflanzenproduktion,322,684,0.4708
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",371,Tierproduktion,114,156,0.7308
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",227,Weinbau und Kellerwirtschaft,325,797,0.4078
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Forstwissenschaft, Holzwirtschaft",058,"Forstwissenschaft, -wirtschaft",2686,6593,0.4074
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Forstwissenschaft, Holzwirtschaft",075,Holzwirtschaft,64,255,0.251
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Ernährungs- und Haushaltswissenschaften,320,Ernährungswissenschaft,6201,7659,0.8096
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Ernährungs- und Haushaltswissenschaften,071,Haushalts- und Ernährungswissenschaft,4353,5540,0.7857
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Ernährungs- und Haushaltswissenschaften,333,Haushaltswissenschaft,73,95,0.7684
+Ingenieurwissenschaften,Ingenieurwesen allgemein,140,Angewandte Systemwissenschaften,866,3807,0.2275
+Ingenieurwissenschaften,Ingenieurwesen allgemein,072,Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften),6307,23237,0.2714
+Ingenieurwissenschaften,Ingenieurwesen allgemein,199,Lernbereich Technik,140,634,0.2208
+Ingenieurwissenschaften,Ingenieurwesen allgemein,380,Mechatronik,1985,16852,0.1178
+Ingenieurwissenschaften,Ingenieurwesen allgemein,305,Medientechnik,2572,6686,0.3847
+Ingenieurwissenschaften,Ingenieurwesen allgemein,310,Regenerative Energien,943,4184,0.2254
+Ingenieurwissenschaften,Ingenieurwesen allgemein,201,Werken (technisch)/Technologie,232,391,0.5934
+Ingenieurwissenschaften,"Bergbau, Hüttenwesen",390,Archäometrie (Ingenieurarchäologie),9,27,0.3333
+Ingenieurwissenschaften,"Bergbau, Hüttenwesen",020,Bergbau/Bergtechnik,411,1761,0.2334
+Ingenieurwissenschaften,"Bergbau, Hüttenwesen",076,Hütten- und Gießereiwesen,45,227,0.1982
+Ingenieurwissenschaften,"Bergbau, Hüttenwesen",103,Markscheidewesen,12,46,0.2609
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,141,Abfallwirtschaft,13,74,0.1757
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,143,Augenoptik,532,758,0.7018
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,3213,8118,0.3958
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,231,Druck- und Reproduktionstechnik,820,1378,0.5951
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,211,Energieverfahrenstechnik,990,4972,0.1991
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,212,Feinwerktechnik,44,550,0.08
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,202,Fertigungs-/Produktionstechnik,665,4553,0.1461
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,215,Gesundheitstechnik,6635,12687,0.523
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,216,Glastechnik/Keramik,27,75,0.36
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,082,Holz-/Fasertechnik,141,702,0.2009
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,219,Kunststofftechnik,129,585,0.2205
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,104,Maschinenbau/-wesen,11034,77862,0.1417
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,108,Metalltechnik,59,380,0.1553
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,224,Physikalische Technik/Mechanische Verfahrenstechnik,578,2654,0.2178
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,144,Technische Kybernetik,70,344,0.2035
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,225,Textil- und Bekleidungstechnik/-gewerbe,1506,2402,0.627
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,074,Transport-/Fördertechnik,21,219,0.0959
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,457,Umwelttechnik (einschl. Recycling),2341,5766,0.406
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,226,Verfahrenstechnik,3188,7818,0.4078
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,213,Versorgungstechnik,492,3041,0.1618
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,316,Elektrische Energietechnik,231,1335,0.173
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,048,Elektrotechnik/Elektronik,9430,60522,0.1558
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,157,Mikroelektronik,201,690,0.2913
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,286,Mikrosystemtechnik,536,2532,0.2117
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,222,Kommunikations- und Informationstechnik,1748,8580,0.2037
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,088,Optoelektronik,131,382,0.3429
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",235,Fahrzeugtechnik,812,9595,0.0846
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",057,Luft- und Raumfahrttechnik,1372,8285,0.1656
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",223,Nautik/Seefahrt,201,1122,0.1791
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",142,"Schiffbau/Schiffstechnik, Meerestechnik",141,809,0.1743
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",089,Verkehrsingenieurwesen,943,4342,0.2172
+Ingenieurwissenschaften,"Architektur, Innenarchitektur",013,Architektur,24614,40527,0.6073
+Ingenieurwissenschaften,"Architektur, Innenarchitektur",242,Innenarchitektur,4041,4574,0.8835
+Ingenieurwissenschaften,Raumplanung,134,Raumplanung,3551,6455,0.5501
+Ingenieurwissenschaften,Raumplanung,458,Umweltschutz,1556,2934,0.5303
+Ingenieurwissenschaften,Bauingenieurwesen,017,Bauingenieurwesen/Ingenieurbau,17463,57681,0.3028
+Ingenieurwissenschaften,Bauingenieurwesen,197,Konstruktiver Ingenieurbau,136,672,0.2024
+Ingenieurwissenschaften,Bauingenieurwesen,094,Wasserbau,350,834,0.4197
+Ingenieurwissenschaften,Bauingenieurwesen,077,Wasserwirtschaft,483,1215,0.3975
+Ingenieurwissenschaften,Vermessungswesen,280,Kartographie,157,314,0.5
+Ingenieurwissenschaften,Vermessungswesen,171,Vermessungswesen (Geodäsie),1481,4922,0.3009
+Ingenieurwissenschaften,Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt,370,Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt,13730,59954,0.229
+Ingenieurwissenschaften,Informatik,221,Bioinformatik,1498,3076,0.487
+Ingenieurwissenschaften,Informatik,200,Computer- und Kommunikationstechniken,3110,7661,0.406
+Ingenieurwissenschaften,Informatik,079,Informatik,32835,157736,0.2082
+Ingenieurwissenschaften,Informatik,123,Ingenieurinformatik/Technische Informatik,3111,16084,0.1934
+Ingenieurwissenschaften,Informatik,121,Medieninformatik,6175,15757,0.3919
+Ingenieurwissenschaften,Informatik,247,Medizinische Informatik,1731,3538,0.4893
+Ingenieurwissenschaften,Informatik,277,Wirtschaftsinformatik,16945,70089,0.2418
+Ingenieurwissenschaften,Materialwissenschaft und Werkstofftechnik,294,Materialwissenschaft,964,3417,0.2821
+Ingenieurwissenschaften,Materialwissenschaft und Werkstofftechnik,177,Werkstofftechnik,1349,4263,0.3164
+"Kunst, Kunstwissenschaft","Kunst, Kunstwissenschaft allgemein",040,"Interdisziplinäre Studien (Schwerpunkt Kunst, Kunstwissenschaft)",1101,1483,0.7424
+"Kunst, Kunstwissenschaft","Kunst, Kunstwissenschaft allgemein",101,Restaurierungskunde,669,818,0.8178
+"Kunst, Kunstwissenschaft",Bildende Kunst,023,Bildende Kunst/Graphik,2563,4066,0.6303
+"Kunst, Kunstwissenschaft",Bildende Kunst,205,Bildhauerei/Plastik,268,440,0.6091
+"Kunst, Kunstwissenschaft",Bildende Kunst,204,Malerei,433,670,0.6463
+"Kunst, Kunstwissenschaft",Bildende Kunst,287,Neue Medien,1808,3122,0.5791
+"Kunst, Kunstwissenschaft",Gestaltung,007,Angewandte Kunst,2866,4158,0.6893
+"Kunst, Kunstwissenschaft",Gestaltung,159,Edelstein- und Schmuckdesign,94,118,0.7966
+"Kunst, Kunstwissenschaft",Gestaltung,069,Graphikdesign/Kommunikationsgestaltung,18123,26308,0.6889
+"Kunst, Kunstwissenschaft",Gestaltung,203,Industriedesign/Produktgestaltung,2325,4425,0.5254
+"Kunst, Kunstwissenschaft",Gestaltung,116,Textilgestaltung,2286,2982,0.7666
+"Kunst, Kunstwissenschaft",Gestaltung,176,Werkerziehung,54,78,0.6923
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",035,Darstellende Kunst/Bühnenkunst/Regie,1328,1856,0.7155
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",054,Film und Fernsehen,1463,2970,0.4926
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",102,Schauspiel,393,713,0.5512
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",106,Tanzpädagogik,273,358,0.7626
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",155,Theaterwissenschaft,1938,2630,0.7369
+"Kunst, Kunstwissenschaft",Musik,192,Dirigieren,107,313,0.3419
+"Kunst, Kunstwissenschaft",Musik,230,Gesang,863,1449,0.5956
+"Kunst, Kunstwissenschaft",Musik,080,Instrumentalmusik,3554,6868,0.5175
+"Kunst, Kunstwissenschaft",Musik,164,Jazz und Popularmusik,476,1653,0.288
+"Kunst, Kunstwissenschaft",Musik,193,Kirchenmusik,160,462,0.3463
+"Kunst, Kunstwissenschaft",Musik,191,Komposition,154,451,0.3415
+"Kunst, Kunstwissenschaft",Musik,165,Orchestermusik,1011,1857,0.5444
+"Kunst, Kunstwissenschaft",Musik,163,Rhythmik,26,29,0.8966
+"Kunst, Kunstwissenschaft",Musik,194,Tonmeister,82,564,0.1454
+"Kunst, Kunstwissenschaft",Kunstwissenschaft/ -pädagogik,091,Kunstpädagogik,5160,6281,0.8215
+"Kunst, Kunstwissenschaft",Kunstwissenschaft/ -pädagogik,092,"Kunstgeschichte, Kunstwissenschaft",7673,9738,0.7879
+"Kunst, Kunstwissenschaft",Musikwissenschaft/ -pädagogik,113,Musikpädagogik,4541,8066,0.563
+"Kunst, Kunstwissenschaft",Musikwissenschaft/ -pädagogik,114,Musikwissenschaft/-geschichte,2428,4274,0.5681
+Rechts- und Verwaltungswissenschaften,Rechtswissenschaften,135,Rechtswissenschaft,69379,116760,0.5942
+Rechts- und Verwaltungswissenschaften,Rechtswissenschaften,042,Wirtschaftsrecht,13893,22460,0.6186
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,264,"Arbeits- und Sozialverwaltung, Berufsberatung",2965,4470,0.6633
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,255,Archiv- und Bibliothekswesen,288,458,0.6288
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,259,Auswärtige Angelegenheiten,203,320,0.6344
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,263,"Bundeswehr, Justiz und Polizei",12138,28252,0.4296
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,269,"Finanz-, Zoll- und Steuerverwaltung",4362,8863,0.4922
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,261,Innere Verwaltung,4780,7372,0.6484
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,268,Verkehrswesen,,,
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,172,Verwaltungswissenschaft/-wesen,11318,19448,0.582
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,011,Arbeitslehre/Wirtschaftslehre,947,1628,0.5817
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,021,Betriebswirtschaftslehre,108171,233231,0.4638
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,167,Europäische Wirtschaft,1232,2199,0.5603
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,304,Medienwirtschaft/Medienmanagement,8263,12047,0.6859
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,182,Internationale Betriebswirtschaft/Management,27935,52381,0.5333
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,166,Sportmanagement/Sportökonomie,2724,10179,0.2676
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,274,Tourismuswirtschaft,6451,8565,0.7532
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,210,Verkehrswirtschaft,622,1856,0.3351
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,175,Volkswirtschaftslehre,7593,21586,0.3518
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,181,Wirtschaftspädagogik,3294,5312,0.6201
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,184,Wirtschaftswissenschaften,42320,91819,0.4609
+Wirtschaftswissenschaften,Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt,464,Facility Management,1469,3452,0.4256
+Wirtschaftswissenschaften,Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt,179,Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt,6539,26217,0.2494
+"Sozial- und Verhaltenswissenschaften, Sport","Sozial- und Verhaltenswissenschaften, Sport allgemein",030,Interdisziplinäre Studien (Schwerpunkt Sozial- und Verhaltenswissenschaften),8785,15864,0.5538
+"Sozial- und Verhaltenswissenschaften, Sport","Sozial- und Verhaltenswissenschaften, Sport allgemein",154,Lernbereich Gesellschaftslehre,208,413,0.5036
+"Sozial- und Verhaltenswissenschaften, Sport","Sozial- und Verhaltenswissenschaften, Sport allgemein",055,Orientierungsstudium Gesellschaftswissenschaften,,,
+"Sozial- und Verhaltenswissenschaften, Sport",Regionalwissenschaften,038,Lateinamerika-Studien,270,412,0.6553
+"Sozial- und Verhaltenswissenschaften, Sport",Regionalwissenschaften,044,Ost- und Südosteuropa-Studien,231,375,0.616
+"Sozial- und Verhaltenswissenschaften, Sport",Regionalwissenschaften,036,Sonstige Regionalwissenschaften,336,513,0.655
+"Sozial- und Verhaltenswissenschaften, Sport",Politikwissenschaft,129,Politikwissenschaft/Politologie,16081,32880,0.4891
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwissenschaften/Soziologie,147,Sozialkunde,1865,3640,0.5124
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwissenschaften/Soziologie,148,Sozialwissenschaften,12326,20145,0.6119
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwissenschaften/Soziologie,149,Soziologie,12193,17851,0.683
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwesen,208,Soziale Arbeit,66077,85459,0.7732
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwesen,245,Sozialpädagogik,11047,13389,0.8251
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwesen,253,Sozialwesen,18141,23622,0.768
+"Sozial- und Verhaltenswissenschaften, Sport",Psychologie,132,Psychologie,92381,119006,0.7763
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,117,Ausländerpädagogik,156,213,0.7324
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,270,Berufs- und Wirtschaftspädagogik,1851,2717,0.6813
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,321,Erwachsenenbildung und außerschulische Jugendbildung,1564,2079,0.7523
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,052,Erziehungswissenschaften (Pädagogik),42972,55111,0.7797
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,115,Grundschul-/Primarstufenpädagogik,8719,10643,0.8192
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,365,Kindheitspädagogik,5589,6390,0.8746
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,254,Sachunterricht (einschl. Schulgarten),1619,1990,0.8136
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,361,Schulpädagogik,316,483,0.6542
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,190,Sonderpädagogik,14013,17078,0.8205
+"Sozial- und Verhaltenswissenschaften, Sport",Kommunikationswissenschaft/Publizistik,303,Kommunikationswissenschaft/Publizistik,12557,16833,0.746
+"Sozial- und Verhaltenswissenschaften, Sport","Sport, Sportwissenschaft",098,Sportpädagogik/ Sportpsychologie,4377,10422,0.42
+"Sozial- und Verhaltenswissenschaften, Sport","Sport, Sportwissenschaft",029,Sportwissenschaft,8738,22740,0.3843
+Außerhalb der Studienbereichsgliederung/Sonstige Fächer,Außerhalb der Studienbereichsgliederung,041,Sonstiges Orientierungsstudium,365,651,0.5607
+Außerhalb der Studienbereichsgliederung/Sonstige Fächer,Außerhalb der Studienbereichsgliederung,196,Studienkolleg,,,
+Außerhalb der Studienbereichsgliederung/Sonstige Fächer,Außerhalb der Studienbereichsgliederung,290,ohne Angabe/ungeklärt,2321,4081,0.5687

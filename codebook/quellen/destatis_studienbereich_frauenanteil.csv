@@ -1,0 +1,66 @@
+faechergruppe,studienbereich,studierende_w,studierende_gesamt,frauenanteil,semester
+Geisteswissenschaften,Geisteswissenschaften allgemein,21083,28543,0.7386,WS 2025/26
+Geisteswissenschaften,"Evang. Theologie, -Religionslehre",4474,7575,0.5906,WS 2025/26
+Geisteswissenschaften,"Kath. Theologie, -Religionslehre",3129,5756,0.5436,WS 2025/26
+Geisteswissenschaften,Philosophie,8885,18776,0.4732,WS 2025/26
+Geisteswissenschaften,Geschichte,17215,37537,0.4586,WS 2025/26
+Geisteswissenschaften,Informations- und Bibliothekswissenschaften,2027,2657,0.7629,WS 2025/26
+Geisteswissenschaften,Allgemeine und vergleichende Literatur- und Sprachwissenschaft,12514,17692,0.7073,WS 2025/26
+Geisteswissenschaften,"Altphilologie (klass. Philologie), Neugriechisch",1186,2127,0.5576,WS 2025/26
+Geisteswissenschaften,"Germanistik (Deutsch, germanische Sprachen ohne Anglistik)",51075,64752,0.7888,WS 2025/26
+Geisteswissenschaften,"Anglistik, Amerikanistik",35326,50015,0.7063,WS 2025/26
+Geisteswissenschaften,Romanistik,7226,9625,0.7508,WS 2025/26
+Geisteswissenschaften,"Slawistik, Baltistik, Finno-Ugristik",1208,1778,0.6794,WS 2025/26
+Geisteswissenschaften,Sonstige Sprach- und Kulturwissenschaften,7872,12665,0.6216,WS 2025/26
+Geisteswissenschaften,Kulturwissenschaften i.e.S.,5410,7524,0.719,WS 2025/26
+Geisteswissenschaften,Islamische Studien/Islamische Theologie,512,938,0.5458,WS 2025/26
+Geisteswissenschaften,Medienwissenschaft,9829,13350,0.7363,WS 2025/26
+"Mathematik, Naturwissenschaften","Mathematik, Naturwissenschaften allgemein",12111,22086,0.5484,WS 2025/26
+"Mathematik, Naturwissenschaften",Mathematik,24356,55472,0.4391,WS 2025/26
+"Mathematik, Naturwissenschaften","Physik, Astronomie",12901,43728,0.295,WS 2025/26
+"Mathematik, Naturwissenschaften",Chemie,23062,46454,0.4964,WS 2025/26
+"Mathematik, Naturwissenschaften",Pharmazie,11365,15845,0.7173,WS 2025/26
+"Mathematik, Naturwissenschaften",Biologie,48842,73882,0.6611,WS 2025/26
+"Mathematik, Naturwissenschaften",Geowissenschaften (ohne Geographie),6096,13477,0.4523,WS 2025/26
+"Mathematik, Naturwissenschaften",Geographie,11765,22435,0.5244,WS 2025/26
+Humanmedizin/Gesundheitswissenschaften,Gesundheitswissenschaften,60464,79118,0.7642,WS 2025/26
+Humanmedizin/Gesundheitswissenschaften,Humanmedizin (ohne Zahnmedizin),78440,120553,0.6507,WS 2025/26
+Humanmedizin/Gesundheitswissenschaften,Zahnmedizin,10879,15753,0.6906,WS 2025/26
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Veterinärmedizin,6877,7888,0.8718,WS 2025/26
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Landschaftsgestaltung/ Naturschutz,3985,6583,0.6053,WS 2025/26
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Agrarwissenschaften, Lebensmittel- und Getränketechnologie",11284,23667,0.4768,WS 2025/26
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin","Forstwissenschaft, Holzwirtschaft",2750,6848,0.4016,WS 2025/26
+"Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin",Ernährungs- und Haushaltswissenschaften,10627,13294,0.7994,WS 2025/26
+Ingenieurwissenschaften,Ingenieurwesen allgemein,13045,55791,0.2338,WS 2025/26
+Ingenieurwissenschaften,"Bergbau, Hüttenwesen",477,2061,0.2314,WS 2025/26
+Ingenieurwissenschaften,Maschinenbau/Verfahrenstechnik,32498,134938,0.2408,WS 2025/26
+Ingenieurwissenschaften,Elektrotechnik und Informationstechnik,12277,74041,0.1658,WS 2025/26
+Ingenieurwissenschaften,"Verkehrstechnik, Nautik",3469,24153,0.1436,WS 2025/26
+Ingenieurwissenschaften,"Architektur, Innenarchitektur",28655,45101,0.6354,WS 2025/26
+Ingenieurwissenschaften,Raumplanung,5107,9389,0.5439,WS 2025/26
+Ingenieurwissenschaften,Bauingenieurwesen,18432,60402,0.3052,WS 2025/26
+Ingenieurwissenschaften,Vermessungswesen,1638,5236,0.3128,WS 2025/26
+Ingenieurwissenschaften,Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt,13730,59954,0.229,WS 2025/26
+Ingenieurwissenschaften,Informatik,65405,273941,0.2388,WS 2025/26
+Ingenieurwissenschaften,Materialwissenschaft und Werkstofftechnik,2313,7680,0.3012,WS 2025/26
+"Kunst, Kunstwissenschaft","Kunst, Kunstwissenschaft allgemein",1770,2301,0.7692,WS 2025/26
+"Kunst, Kunstwissenschaft",Bildende Kunst,5072,8298,0.6112,WS 2025/26
+"Kunst, Kunstwissenschaft",Gestaltung,25748,38069,0.6764,WS 2025/26
+"Kunst, Kunstwissenschaft","Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft",5395,8527,0.6327,WS 2025/26
+"Kunst, Kunstwissenschaft",Musik,6433,13646,0.4714,WS 2025/26
+"Kunst, Kunstwissenschaft",Kunstwissenschaft/ -pädagogik,12833,16019,0.8011,WS 2025/26
+"Kunst, Kunstwissenschaft",Musikwissenschaft/ -pädagogik,6969,12340,0.5647,WS 2025/26
+Rechts- und Verwaltungswissenschaften,Rechtswissenschaften,83272,139220,0.5981,WS 2025/26
+Rechts- und Verwaltungswissenschaften,Verwaltungswissenschaften,36054,69183,0.5211,WS 2025/26
+Wirtschaftswissenschaften,Wirtschaftswissenschaften,209552,440803,0.4754,WS 2025/26
+Wirtschaftswissenschaften,Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt,8008,29669,0.2699,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport","Sozial- und Verhaltenswissenschaften, Sport allgemein",8993,16277,0.5525,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Regionalwissenschaften,837,1300,0.6438,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Politikwissenschaft,16081,32880,0.4891,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwissenschaften/Soziologie,26384,41636,0.6337,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Sozialwesen,95265,122470,0.7779,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Psychologie,92381,119006,0.7763,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Erziehungswissenschaften,76799,96704,0.7942,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport",Kommunikationswissenschaft/Publizistik,12557,16833,0.746,WS 2025/26
+"Sozial- und Verhaltenswissenschaften, Sport","Sport, Sportwissenschaft",13115,33162,0.3955,WS 2025/26
+Außerhalb der Studienbereichsgliederung/Sonstige Fächer,Außerhalb der Studienbereichsgliederung,2686,4732,0.5676,WS 2025/26

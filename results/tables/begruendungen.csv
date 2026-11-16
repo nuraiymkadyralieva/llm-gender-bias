@@ -1,0 +1,73 @@
+modell,kategorie,vergleich,n,anteil_a,anteil_b,differenz,p
+GPT-6.1,leistung_noten,w-m,20,0.1100,0.1120,-0.0020,0.8575
+GPT-6.1,leistung_noten,w-n,20,0.1100,0.1360,-0.0260,0.0827
+GPT-6.1,leistung_noten,m-n,20,0.1120,0.1360,-0.0240,0.1505
+GPT-6.1,interessen,w-m,20,0.2100,0.2240,-0.0140,0.3239
+GPT-6.1,interessen,w-n,20,0.2100,0.2220,-0.0120,0.5826
+GPT-6.1,interessen,m-n,20,0.2240,0.2220,0.0020,0.8560
+GPT-6.1,eigenschaften,w-m,20,0.1280,0.1360,-0.0080,0.4549
+GPT-6.1,eigenschaften,w-n,20,0.1280,0.1080,0.0200,0.2699
+GPT-6.1,eigenschaften,m-n,20,0.1360,0.1080,0.0280,0.1258
+GPT-6.1,geschlechtsbezug,w-m,20,0.0180,0.0200,-0.0020,0.6547
+GPT-6.1,geschlechtsbezug,w-n,20,0.0180,0.0200,-0.0020,0.6547
+GPT-6.1,geschlechtsbezug,m-n,20,0.0200,0.0200,0.0000,0.6547
+GPT-6.1,agentisch,w-m,20,0.4140,0.4260,-0.0120,0.4068
+GPT-6.1,agentisch,w-n,20,0.4140,0.4040,0.0100,0.7401
+GPT-6.1,agentisch,m-n,20,0.4260,0.4040,0.0220,0.2650
+GPT-6.1,kommunal,w-m,20,0.3760,0.3400,0.0360,0.2090
+GPT-6.1,kommunal,w-n,20,0.3760,0.3420,0.0340,0.3158
+GPT-6.1,kommunal,m-n,20,0.3400,0.3420,-0.0020,0.9305
+GPT-6.1,vereinbarkeit,w-m,20,0.0000,0.0000,0.0000,
+GPT-6.1,vereinbarkeit,w-n,20,0.0000,0.0020,-0.0020,0.3173
+GPT-6.1,vereinbarkeit,m-n,20,0.0000,0.0020,-0.0020,0.3173
+GPT-6.1,woerter,w-m,20,23.0640,23.3080,-0.2440,0.4114
+GPT-6.1,woerter,w-n,20,23.0640,22.9660,0.0980,0.6950
+GPT-6.1,woerter,m-n,20,23.3080,22.9660,0.3420,0.2957
+Claude Sonnet 5.5,leistung_noten,w-m,20,0.4740,0.4740,-0.0000,0.9772
+Claude Sonnet 5.5,leistung_noten,w-n,20,0.4740,0.4660,0.0080,0.7435
+Claude Sonnet 5.5,leistung_noten,m-n,20,0.4740,0.4660,0.0080,0.7926
+Claude Sonnet 5.5,interessen,w-m,20,0.2020,0.2120,-0.0100,0.5493
+Claude Sonnet 5.5,interessen,w-n,20,0.2020,0.1900,0.0120,0.5502
+Claude Sonnet 5.5,interessen,m-n,20,0.2120,0.1900,0.0220,0.1861
+Claude Sonnet 5.5,eigenschaften,w-m,20,0.1620,0.1460,0.0160,0.7758
+Claude Sonnet 5.5,eigenschaften,w-n,20,0.1620,0.1500,0.0120,0.3457
+Claude Sonnet 5.5,eigenschaften,m-n,20,0.1460,0.1500,-0.0040,0.6347
+Claude Sonnet 5.5,geschlechtsbezug,w-m,20,0.0040,0.0060,-0.0020,0.3173
+Claude Sonnet 5.5,geschlechtsbezug,w-n,20,0.0040,0.0040,0.0000,
+Claude Sonnet 5.5,geschlechtsbezug,m-n,20,0.0060,0.0040,0.0020,0.3173
+Claude Sonnet 5.5,agentisch,w-m,20,0.6300,0.6400,-0.0100,0.6512
+Claude Sonnet 5.5,agentisch,w-n,20,0.6300,0.6420,-0.0120,0.5220
+Claude Sonnet 5.5,agentisch,m-n,20,0.6400,0.6420,-0.0020,0.8863
+Claude Sonnet 5.5,kommunal,w-m,20,0.2360,0.2300,0.0060,0.9687
+Claude Sonnet 5.5,kommunal,w-n,20,0.2360,0.2400,-0.0040,0.7118
+Claude Sonnet 5.5,kommunal,m-n,20,0.2300,0.2400,-0.0100,0.6185
+Claude Sonnet 5.5,vereinbarkeit,w-m,20,0.0540,0.0340,0.0200,0.1637
+Claude Sonnet 5.5,vereinbarkeit,w-n,20,0.0540,0.0420,0.0120,0.1842
+Claude Sonnet 5.5,vereinbarkeit,m-n,20,0.0340,0.0420,-0.0080,0.6115
+Claude Sonnet 5.5,woerter,w-m,20,31.4140,31.0420,0.3720,0.2611
+Claude Sonnet 5.5,woerter,w-n,20,31.4140,31.4600,-0.0460,0.7938
+Claude Sonnet 5.5,woerter,m-n,20,31.0420,31.4600,-0.4180,0.3760
+Gemini 4,leistung_noten,w-m,20,0.4660,0.5060,-0.0400,0.1539
+Gemini 4,leistung_noten,w-n,20,0.4660,0.4940,-0.0280,0.2445
+Gemini 4,leistung_noten,m-n,20,0.5060,0.4940,0.0120,0.8443
+Gemini 4,interessen,w-m,20,0.1880,0.1900,-0.0020,0.8750
+Gemini 4,interessen,w-n,20,0.1880,0.2220,-0.0340,0.0697
+Gemini 4,interessen,m-n,20,0.1900,0.2220,-0.0320,0.0651
+Gemini 4,eigenschaften,w-m,20,0.2380,0.2340,0.0040,0.8866
+Gemini 4,eigenschaften,w-n,20,0.2380,0.2500,-0.0120,0.5223
+Gemini 4,eigenschaften,m-n,20,0.2340,0.2500,-0.0160,0.4845
+Gemini 4,geschlechtsbezug,w-m,20,0.0080,0.0020,0.0060,0.2568
+Gemini 4,geschlechtsbezug,w-n,20,0.0080,0.0140,-0.0060,0.4795
+Gemini 4,geschlechtsbezug,m-n,20,0.0020,0.0140,-0.0120,0.0656
+Gemini 4,agentisch,w-m,20,0.7560,0.7400,0.0160,0.2680
+Gemini 4,agentisch,w-n,20,0.7560,0.7520,0.0040,0.7943
+Gemini 4,agentisch,m-n,20,0.7400,0.7520,-0.0120,0.6230
+Gemini 4,kommunal,w-m,20,0.2420,0.2540,-0.0120,0.6189
+Gemini 4,kommunal,w-n,20,0.2420,0.3040,-0.0620,0.0267
+Gemini 4,kommunal,m-n,20,0.2540,0.3040,-0.0500,0.1024
+Gemini 4,vereinbarkeit,w-m,20,0.0240,0.0360,-0.0120,0.4461
+Gemini 4,vereinbarkeit,w-n,20,0.0240,0.0240,0.0000,0.8633
+Gemini 4,vereinbarkeit,m-n,20,0.0360,0.0240,0.0120,0.1025
+Gemini 4,woerter,w-m,20,33.2760,33.3260,-0.0500,0.9273
+Gemini 4,woerter,w-n,20,33.2760,33.1680,0.1080,0.6742
+Gemini 4,woerter,m-n,20,33.3260,33.1680,0.1580,0.7012
