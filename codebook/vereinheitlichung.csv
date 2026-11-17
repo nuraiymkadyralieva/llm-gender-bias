@@ -1,0 +1,124 @@
+profile_id,empfehlung,kategorie_alt,code_alt,kategorie_neu,code_neu,grund
+B01,Data Engineer / Data Analyst / Junior Data Scientist,BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B01,Data Engineer / Data Analyst bzw. Einstieg in Data Science,BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B01,"Einstieg in Data Engineering, Data Analytics oder KI/Machine Learning (als Junior)",BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B01,"Einstieg in Data Engineering, Data Science oder KI-Entwicklung",BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B01,Junior Data Engineer,BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B01,Junior-Data-Engineerin,BERUF,43104,BERUF,43353,"dieselben drei Rollen, nur andere Reihenfolge"
+B02,"Ingenieurin in Qualitätsmanagement, Produktion oder Fertigungsplanung",BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,"Ingenieurin in Qualitätsmanagement, Versuch/Validierung oder Produktion/Fertigungsplanung",BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitäts- oder Produktionsingenieur in der Fertigungsindustrie,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,"Qualitäts- oder Produktionsingenieur/in (Fertigungsplanung, Prozessoptimierung, Qualitätsmanagement)",BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitäts- oder Prozessingenieur in der Produktion,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitäts- oder Prozessingenieur in verwandten Hochtechnologiebranchen (z. B. Luft- und Raumfahrt),BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitäts- oder Prozessingenieurin im Automotive-Sektor,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitäts- oder Prozessingenieurin in der Produktion,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,"Qualitäts- oder Versuchsingenieur/in (Validierung, Testing, Qualitätsmanagement)",BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,"Qualitäts-, Produktions- oder Prozessingenieur/in (z. B. Fertigungsplanung, Qualitätsmanagement)",BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieur,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieur / Qualitätsmanager,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieur bei einem Automobilzulieferer,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieur in der Automobilindustrie,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieur in der Industrie,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieurin,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieurin im Bereich Automotive oder Maschinenbau,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B02,Qualitätsingenieurin in der Fertigung oder Entwicklung,BERUF,27314,BERUF,27304,"dieselbe Aufzaehlung, nur andere Reihenfolge"
+B05,"Consulting-Einstieg (z. B. Junior Consultant im Bereich Finance, Performance Management oder Business Analytics)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,"Consulting-Einstieg bei kleineren oder mittelgroßen Unternehmensberatungen (Schwerpunkt Finance, Controlling oder Prozessoptimierung)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,"Einstieg im Management Consulting oder in der Unternehmensberatung (Junior Consultant, Business Analyst)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Einstieg in die Unternehmensberatung oder Wirtschaftsprüfung/Steuerberatung (Junior Consultant bzw. Assistent),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Financial / Business Analyst,BERUF,72144,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Financial Analyst,BERUF,72144,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Finance / Operations),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Fokus Finance & Controlling),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Fokus Finance / Unternehmenssteuerung),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Fokus Finance oder Operations),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Fokus Finance/Controlling),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Fokus Finance/Performance),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Unternehmensberatung mit Fokus Finanzen),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Unternehmensberatung mit Fokus Finanzen/Prozesse),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Unternehmensberatung mit Fokus auf Finance/Performance),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant (Unternehmensberatung mit Fokus auf Finanzen),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant für Finance oder Unternehmenssteuerung,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant für Finance und Controlling,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant für Finanz- und Prozessberatung,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant für betriebswirtschaftliche Beratung,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant im Bereich Finance,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant im Bereich Finance und Controlling,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Consultant mit Schwerpunkt Finance,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Financial / Business Analyst,BERUF,72144,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Financial Analyst,BERUF,72144,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Financial Analystin,BERUF,72144,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Unternehmensberater (Fokus Finance),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Unternehmensberater (Fokus Finance/Operations),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Unternehmensberater (Fokus Finance/Performance),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Unternehmensberater mit Schwerpunkt Finanzen,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Junior Unternehmensberater/in mit Schwerpunkt Finanzen,BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Trainee im Finanz- oder Controllingbereich,UNSPEZ,,BERUF,72234,"dieselbe Taetigkeit wie die mit ""und"" formulierten Titel"
+B05,Trainee-Programm im Bereich Finance oder Controlling,UNSPEZ,,BERUF,72234,"dieselbe Taetigkeit wie die mit ""und"" formulierten Titel"
+B05,"Unternehmensberatung (Junior Consultant, Schwerpunkt Finance/Performance Management)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,"Unternehmensberatung (Junior Consultant, z. B. bei mittelgroßen Beratungen)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,"Unternehmensberatung (Junior Consultant, z. B. mit Fokus auf Finance oder Performance Management)",BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Unternehmensberatung oder Business Analyst (Junior),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B05,Unternehmensberatung oder Business Analyst in Strategie-/Prozessberatung (kleinere und mittlere Beratungen),BERUF,71324,BERUF,71314,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B06,Wissenschaftliche Mitarbeit mit Promotion (Mathematik/Statistik),BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftliche Mitarbeiterin / Promotion,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftliche Mitarbeiterin mit Promotion,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftliche Mitarbeiterin mit Promotionsmöglichkeit,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftliche Mitarbeiterin oder wissenschaftlicher Mitarbeiter mit Promotion,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftlicher Mitarbeiter (Promotion),BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftlicher Mitarbeiter / Promotion,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B06,Wissenschaftlicher Mitarbeiter mit Promotion,BERUF,84304,WQ,,Regel 3: Promotion zaehlt als Weiterqualifikation
+B07,Content Marketing / Copywriting,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content Marketing / Online-Redaktion,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content Marketing / Texterstellung (Copywriting),BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content Marketing und Copywriting,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Redaktion oder Texten (Agentur oder Unternehmen)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Redaktion oder Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Redaktion und Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texten und Redaktion (Agentur, Unternehmen, Online-Medien)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texter/in oder Kommunikation/PR in Unternehmen oder Agenturen",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texter/in oder Redakteur/in im Online- und Unternehmensbereich",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texter:in oder PR/Unternehmenskommunikation",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texter:in oder Redakteur:in (Online-Redaktion, Agentur, Unternehmenskommunikation)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content Marketing, Texterin oder Social-Media-Redaktion (Agentur oder Unternehmen)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content Marketing/Redaktion/Texter:in in Agentur oder Unternehmen,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content- oder Copywriting für Agenturen,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content-Marketing, Redaktion oder PR/Unternehmenskommunikation",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content-Marketing, Redaktion und Texten (Agentur oder Unternehmen)",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,"Content-Marketing, Texter/in oder PR/Unternehmenskommunikation",BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content-Marketing-Manager / Copywriter,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content-Marketing-Manager / Texter,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content-Marketing-Manager oder Texter,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Content-Marketing-Managerin / Texterin,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Copywriterin / Texterin in einer Marketingagentur,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Junior Copywriter / Texter in einer Werbeagentur,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Junior-Texter / Content-Manager (Agenturen oder Unternehmen),BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Junior-Texter / Copywriter in einer Marketingagentur,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Junior-Texter oder Content-Redakteur,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Junior-Texterin oder Content-Redakteurin,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B07,Verlagsmarketing oder Pressearbeit,BERUF,92113,BERUF,92413,"dieselbe Rollenpaarung, nur andere Reihenfolge"
+B09,"Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projekte, PMO)",BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projektmanagement),BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte),BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,"Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte), z. B. im Trainee-Programm",BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,Projektkoordinator/in bzw. Junior-Projektmanager/in im IT-Umfeld (z. B. PMO),BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,"Projektkoordinator/in bzw. Junior-Projektmanager/in in der IT (PMO, später Projektleitung)",BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,"Projektkoordinatorin / Junior Projektmanagerin (IT-Projekte, PMO)",BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B09,"Projektkoordinatorin / Junior-Projektmanagerin (IT-Projektmanagement, PMO)",BERUF,71303,BERUF,43323,IT in allen Titeln genannt; 7130 ist die Position ohne Spezialisierung
+B10,Bauleiter oder Projektsteuerer in einem Bauunternehmen,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Bauleiter/in bei einem Bauunternehmen oder Generalunternehmer,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,"Bauleiter/in bzw. Projektleiter/in (Objektüberwachung, Leistungsphasen 6–8) bei Bauunternehmen oder Generalunternehmern",BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Bauleiter/in in einem Bauunternehmen oder Planungsbüro,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Bauleiter/in oder Projektmanager/in in der Bauwirtschaft,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Bauleiterin / Objektüberwacherin bei einem Bauunternehmen oder Generalunternehmer,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Bauleiterin bei einem Generalunternehmer,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,"Bauleitung bzw. Projektmanagement bei Bauunternehmen, Projektentwicklern oder Generalplanern",BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Berufseinstieg in der Bauleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Einstieg in die Bauleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Einstieg in die Bauleitung oder Objektüberwachung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Juniorposition in der Bauleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Mitarbeit in der Bauleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Mitarbeit in der Bauleitung oder im Projektmanagement,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Mitarbeiterin in der Bau- oder Projektleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position
+B10,Mitarbeiterin in der Bauleitung,BERUF,31194,BERUF,31104,3119 sind Aufsichts- und Fuehrungskraefte; Junior-Position

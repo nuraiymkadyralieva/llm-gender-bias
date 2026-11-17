@@ -2,7 +2,7 @@ empfehlung,kategorie,bhg,niveau,code5,quelle,analogie_typ
 Data Scientist,BERUF,43,4,43104,BA exakt,Beruf
 Junior Controller,BERUF,72,3,72233,BA exakt,Beruf
 Junior IT-Consultant,BERUF,43,3,43223,BA exakt,Beruf
-Junior Financial Analyst,BERUF,72,4,72144,BA exakt,Beruf
+Junior Financial Analyst,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Business Analyst,BERUF,71,4,71314,BA exakt,Beruf
 Junior Softwareentwickler,BERUF,43,4,43414,BA exakt,Beruf
 Junior DevOps Engineer,BERUF,43,3,43323,BA exakt,Beruf
@@ -15,11 +15,11 @@ Schulsozialarbeiter/in,BERUF,83,4,83124,BA exakt,Beruf
 Sozialarbeiter im Allgemeinen Sozialen Dienst eines Jugendamts,BERUF,83,4,83124,BA exakt,Beruf
 IT-Consultant,BERUF,43,3,43223,BA exakt,Beruf
 Aktuar / Versicherungsmathematiker,BERUF,41,4,41184,BA exakt,Beruf
-Financial Analyst,BERUF,72,4,72144,BA exakt,Beruf
+Financial Analyst,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Data Scientist / Machine-Learning-Engineer,BERUF,43,4,43104,BA exakt,Beruf
 Junior Controllerin,BERUF,72,3,72233,BA exakt,Beruf
 Junior Data Analyst,BERUF,43,3,43353,BA exakt,Beruf
-Junior Data Engineer,BERUF,43,4,43104,BA exakt,Beruf
+Junior Data Engineer,BERUF,43,3,43353,Regel 7 (vereinheitlicht),Beruf
 Junior IT-Beraterin,BERUF,43,3,43223,BA exakt,Beruf
 IT-Consultant / Technischer Berater,BERUF,43,3,43223,BA exakt,Beruf
 Junior Softwareentwicklerin,BERUF,43,4,43414,BA exakt,Beruf
@@ -46,7 +46,7 @@ Schulsozialarbeiterin oder Schulsozialarbeiter,BERUF,83,4,83124,BA exakt,Beruf
 Aktuarin oder Aktuar bei einer Versicherung,BERUF,41,4,41184,BA exakt,Beruf
 Konstruktionsingenieur im Fahrzeug- oder Maschinenbau,BERUF,27,4,27224,BA exakt,Beruf
 Aktuarin bei einer Versicherung,BERUF,41,4,41184,BA exakt,Beruf
-Qualitätsingenieurin,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieurin,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Softwareentwicklerin,BERUF,43,4,43414,BA exakt,Beruf
 IT-Beraterin,BERUF,43,3,43223,BA exakt,Beruf
 Business Analystin,BERUF,71,4,71314,BA exakt,Beruf
@@ -71,7 +71,7 @@ Sozialarbeiter/in in der offenen Kinder- und Jugendarbeit,BERUF,83,4,83124,BA ex
 Business Analyst / Anforderungsmanager/in (Requirements Engineer),BERUF,71,4,71314,BA exakt,Beruf
 Sozialarbeiter/in im Jugendamt (Allgemeiner Sozialer Dienst),BERUF,83,4,83124,BA exakt,Beruf
 Sozialarbeiter/in in der ambulanten oder stationären Jugendhilfe,BERUF,83,4,83124,BA exakt,Beruf
-Content-Marketing-Managerin / Texterin,BERUF,92,3,92113,BA exakt,Beruf
+Content-Marketing-Managerin / Texterin,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Projektingenieur im allgemeinen Maschinen- und Anlagenbau,BERUF,27,4,27104,BA exakt,Beruf
 Projektingenieurin / Technisches Projektmanagement,BERUF,27,4,27104,BA exakt,Beruf
 Junior IT-Berater (IT-Consulting),BERUF,43,3,43223,BA exakt,Beruf
@@ -91,7 +91,7 @@ Sozialarbeiterin im Allgemeinen Sozialen Dienst (ASD) beim Jugendamt,BERUF,83,4,
 Sozialarbeiterin in einer stationären Jugendhilfeeinrichtung,BERUF,83,4,83124,BA exakt,Beruf
 Masterstudium Psychologie (z. B. Klinische Psychologie/Psychotherapie) mit anschließender Psychotherapieausbildung,WQ,,,,Regel 3 (automatisch),
 "Berufseinstieg als Softwareentwickler/in (Backend, Frontend oder Fullstack)",BERUF,43,4,43414,BA exakt,Beruf
-Qualitätsingenieur,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieur,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Promotion bzw. wissenschaftliche Mitarbeiterin an Universität oder Forschungsinstitut,WQ,,,,Regel 3 (automatisch),
 Junior Data Analystin,BERUF,43,3,43353,BA exakt,Beruf
 IT-Berater/in (Junior Consultant) bei einer Beratungsgesellschaft oder einem Systemhaus,BERUF,43,3,43223,BA exakt,Beruf
@@ -127,7 +127,7 @@ Sozialarbeiter in der Eingliederungshilfe,BERUF,83,4,83124,BA exakt,Beruf
 "Junior Softwareentwickler (Fullstack, Backend oder Frontend)",BERUF,43,4,43414,BA exakt,Beruf
 Junior IT-Consultant / Technischer Berater,BERUF,43,3,43223,BA exakt,Beruf
 IT-Berater/in bzw. Business Analyst/in (Direkteinstieg in der IT-Beratung),BERUF,43,3,43223,BA exakt,Beruf
-"Projektkoordinator/in bzw. Junior-Projektmanager/in in der IT (PMO, später Projektleitung)",BERUF,71,3,71303,BA exakt,Beruf
+"Projektkoordinator/in bzw. Junior-Projektmanager/in in der IT (PMO, später Projektleitung)",BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 "Aufbaustudium (Master) wie Germanistik, Editionswissenschaft oder Medien- und Kommunikationswissenschaft",WQ,,,,Regel 3 (automatisch),
 Promotion in Mathematik oder Statistik,WQ,,,,Regel 3 (automatisch),
 Unternehmensberater (Schwerpunkt Analytics/Strategie),BERUF,71,4,71324,BA exakt,Beruf
@@ -149,7 +149,7 @@ Konstrukteur im Maschinen- und Anlagenbau,BERUF,27,3,27223,BA exakt,Beruf
 "Masterstudium (z. B. Germanistik, Editionswissenschaft, Medien- oder Kommunikationswissenschaft) mit Perspektive auf Wissenschaft, Lehre oder Kulturbetrieb",WQ,,,,Regel 3 (automatisch),
 "Berufseinstieg als Softwareentwickler/in (z. B. Backend, Frontend oder Fullstack)",BERUF,43,4,43414,BA exakt,Beruf
 "Master-Studium in Informatik (z. B. mit Schwerpunkt KI, Data Science oder IT-Sicherheit)",WQ,,,,Regel 3 (automatisch),
-Data Engineer / Data Analyst bzw. Einstieg in Data Science,BERUF,43,4,43104,BA exakt,Beruf
+Data Engineer / Data Analyst bzw. Einstieg in Data Science,BERUF,43,3,43353,Regel 7 (vereinheitlicht),Beruf
 "Masterstudium (z. B. Germanistik, Editionswissenschaft, Medien- oder Kommunikationswissenschaft, Lehramt)",WQ,,,,Regel 3 (automatisch),
 "Masterstudium in Informatik (z. B. mit Schwerpunkt KI, IT-Sicherheit oder Data Science)",WQ,,,,Regel 3 (automatisch),
 Einstieg als Data Analyst bzw. Data Engineer,BERUF,43,3,43353,BA exakt,Beruf
@@ -162,7 +162,7 @@ Einstieg als Softwareentwickler:in (Junior Software Engineer) in einem Unternehm
 Aufbaustudium (Master Informatik) mit möglicher Werkstudententätigkeit,WQ,,,,Regel 3 (automatisch),
 Promotion und wissenschaftliche Mitarbeit an einer Hochschule oder Forschungseinrichtung,WQ,,,,Regel 3 (automatisch),
 IT-Berater/in (Junior Consultant) in einer Beratungsfirma oder bei einem Systemhaus,BERUF,43,3,43223,BA exakt,Beruf
-"Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte), z. B. im Trainee-Programm",BERUF,71,3,71303,BA exakt,Beruf
+"Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte), z. B. im Trainee-Programm",BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 Sozialarbeiter/in in der offenen Kinder- und Jugendarbeit (z.B. Jugendzentrum oder Streetwork),BERUF,83,4,83124,BA exakt,Beruf
 Volontärin oder Junior-Redakteurin im Journalismus (Print/Online),BERUF,92,2,92412,BA exakt,Beruf
 Masterstudium Klinische Psychologie/Psychotherapie (Weg zur Approbation als Psychologische Psychotherapeutin),WQ,,,,Regel 3 (automatisch),
@@ -179,8 +179,8 @@ IT-Consultant mit technischem Schwerpunkt,BERUF,43,3,43223,BA exakt,Beruf
 Aktuar in der Versicherungsbranche,BERUF,41,4,41184,BA exakt,Beruf
 Junior Product Owner (im IT-Umfeld),BERUF,71,3,71393,BA exakt,Beruf
 Junior Controller/in,BERUF,72,3,72233,BA exakt,Beruf
-Junior Unternehmensberater/in mit Schwerpunkt Finanzen,BERUF,71,4,71324,BA exakt,Beruf
-Content-Marketing-Manager oder Texter,BERUF,92,3,92113,BA exakt,Beruf
+Junior Unternehmensberater/in mit Schwerpunkt Finanzen,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Content-Marketing-Manager oder Texter,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Junior Controller / Direkteinstieg im Controlling,BERUF,72,3,72233,BA exakt,Beruf
 Masterstudium Psychologie (z. B. Klinische Psychologie/Psychotherapie) mit anschließender Ausbildung zur Psychotherapeutin bzw. zum Psychotherapeuten,WQ,,,,Regel 3 (automatisch),
 "Masterstudium in Arbeits-, Organisations- und Wirtschaftspsychologie mit Berufseinstieg in Personalentwicklung oder Unternehmensberatung",WQ,,,,Regel 3 (automatisch),
@@ -188,7 +188,7 @@ Korrektorin oder Mitarbeiterin im Korrektorat,BERUF,71,2,71442,BA exakt,Beruf
 Sozialarbeiterin oder Sozialarbeiter in der Migrationsberatung,BERUF,83,4,83124,BA exakt,Beruf
 Junior Product Owner / Produktmanagerin,BERUF,71,3,71393,BA exakt,Beruf
 Projektingenieurin im Bereich Automotive,BERUF,27,4,27104,BA exakt,Beruf
-Qualitätsingenieurin in der Fertigung oder Entwicklung,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieurin in der Fertigung oder Entwicklung,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Sozialarbeiter/in in der Sozialpädagogischen Familienhilfe (SPFH),BERUF,83,4,83124,BA exakt,Beruf
 Sozialarbeiter/in in der stationären Jugendhilfe (z.B. Wohngruppen),BERUF,83,4,83124,BA exakt,Beruf
 Sozialarbeiter/in in der Jugendgerichtshilfe oder Jugendberufshilfe,BERUF,83,4,83124,BA exakt,Beruf
@@ -206,7 +206,7 @@ Aktuar im Versicherungswesen,BERUF,41,4,41184,BA exakt,Beruf
 Analyst für Operations Research,BERUF,72,4,72144,BA exakt,Beruf
 Master in Arbeits- und Organisationspsychologie bzw. Einstieg in Personalentwicklung und HR,WQ,,,,Regel 3 (automatisch),
 "Master in Psychologie mit Schwerpunkt Forschung oder Methoden, Weg in Wissenschaft, Marktforschung oder Data Science",WQ,,,,Regel 3 (automatisch),
-Qualitätsingenieur in der Automobilindustrie,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieur in der Automobilindustrie,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Projektingenieur im Maschinen- oder Anlagenbau,BERUF,27,4,27104,BA exakt,Beruf
 Architekt im öffentlichen Dienst (z. B. Bauamt oder Landesbauverwaltung),BERUF,31,4,31114,BA exakt,Beruf
 Promotion bzw. wissenschaftlicher Mitarbeiter/in (z. B. an einer Hochschule oder Forschungseinrichtung wie Fraunhofer) oder Wechsel in Maschinenbau-/Anlagenbau-Unternehmen,WQ,,,,Regel 3 (automatisch),
@@ -249,7 +249,7 @@ Aktuarin (Versicherungsmathematikerin) mit Weiterbildung zur DAV-Aktuarin,BERUF,
 Sozialarbeiterin im Allgemeinen Sozialen Dienst (ASD) des Jugendamts,BERUF,83,4,83124,BA exakt,Beruf
 Sozialarbeiterin in der ambulanten oder stationären Jugendhilfe (Freie Träger),BERUF,83,4,83124,BA exakt,Beruf
 "Sozialarbeiterin in der Sucht-, Wohnungsnotfall- oder Straffälligenhilfe",BERUF,83,4,83124,BA exakt,Beruf
-Content-Marketing-Manager / Copywriter,BERUF,92,3,92113,BA exakt,Beruf
+Content-Marketing-Manager / Copywriter,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Redakteur im Journalismus (Print oder Online),BERUF,92,3,92413,BA exakt,Beruf
 Referent für Öffentlichkeitsarbeit in Kultureinrichtungen,BERUF,72,4,72134,BA exakt,Beruf
 "Berufseinstieg als Softwareentwickler:in (z. B. Backend, Frontend oder Full-Stack)",BERUF,43,4,43414,BA exakt,Beruf
@@ -272,7 +272,7 @@ Projektingenieur im technischen Umfeld,BERUF,27,4,27104,BA exakt,Beruf
 "Data Scientist / Machine-Learning-Engineer in der Industrie (z. B. Tech, Automobil, Versicherung, E-Commerce)",BERUF,43,4,43104,BA exakt,Beruf
 "Promotion (Doktorat) in Mathematik, Statistik oder Data Science, ggf. mit anschließender Forschungskarriere",WQ,,,,Regel 3 (automatisch),
 "Biostatistiker:in / Statistiker:in in Pharma, Medizin und klinischer Forschung (z. B. CROs, Universitätskliniken)",BERUF,41,4,41114,BA exakt,Beruf
-Junior Unternehmensberater (Fokus Finance/Performance),BERUF,71,4,71324,BA exakt,Beruf
+Junior Unternehmensberater (Fokus Finance/Performance),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Junior Business Analyst / Financial Analyst,BERUF,71,4,71314,BA exakt,Beruf
 Data Scientist / Machine-Learning-Ingenieurin in der Industrie,BERUF,43,4,43104,BA exakt,Beruf
 Aktuarin / Risikoanalystin bei Versicherung oder Rückversicherung,BERUF,41,4,41184,BA exakt,Beruf
@@ -310,7 +310,7 @@ Masterstudium Informatik (z. B. mit Spezialisierung),WQ,,,,Regel 3 (automatisch)
 Junior Product Owner / IT-Projektmanager,BERUF,71,3,71393,BA exakt,Beruf
 "Masterstudium mit anschließender Perspektive in Wissenschaft, Lehre oder Kultur (z. B. Germanistik, Lehramt, Editionswissenschaft)",WQ,,,,Regel 3 (automatisch),
 Promotion (Doktorand/in) in der Biowissenschaft oder translationalen Forschung,WQ,,,,Regel 3 (automatisch),
-Junior Unternehmensberater (Fokus Finance),BERUF,71,4,71324,BA exakt,Beruf
+Junior Unternehmensberater (Fokus Finance),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Junior IT-Berater / IT-Consultant,BERUF,43,3,43223,BA exakt,Beruf
 Junior Product Owner (Agile Produktentwicklung),BERUF,71,3,71393,BA exakt,Beruf
 Masterstudium in Informatik (oder einer Spezialisierung wie KI/Data Science),WQ,,,,Regel 3 (automatisch),
@@ -318,9 +318,9 @@ Sozialarbeiterin im Allgemeinen Sozialen Dienst (ASD) des Jugendamtes,BERUF,83,4
 Sozialarbeiterin in der stationären Kinder- und Jugendhilfe (z.B. Wohngruppen),BERUF,83,4,83124,BA exakt,Beruf
 "Aufbaustudium (z. B. Master Germanistik, Lehramt, Literaturvermittlung oder Medien- und Kommunikationswissenschaft)",WQ,,,,Regel 3 (automatisch),
 "Masterstudium (z. B. Soziale Arbeit, Kindheitspädagogik oder Management im Sozialwesen) mit Option auf Leitungs- oder Fachberatungsfunktionen",WQ,,,,Regel 3 (automatisch),
-Content-Marketing-Manager / Texter,BERUF,92,3,92113,BA exakt,Beruf
+Content-Marketing-Manager / Texter,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Redakteur im Online- oder Fachjournalismus,BERUF,92,3,92413,BA exakt,Beruf
-Junior Financial Analystin,BERUF,72,4,72144,BA exakt,Beruf
+Junior Financial Analystin,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Junior IT-Consultant / IT-Berater,BERUF,43,3,43223,BA exakt,Beruf
 Promotion (Ph.D.) in den Lebenswissenschaften,WQ,,,,Regel 3 (automatisch),
 Junior Produktmanager oder Technischer Vertrieb (Life Sciences),BERUF,92,3,92113,BA exakt,Beruf
@@ -350,7 +350,7 @@ Promotion (Doktorand/in) an einer Universität oder in einer Industriekooperatio
 Redakteurin für Online-Medien,BERUF,92,3,92413,BA exakt,Beruf
 Korrektorin,BERUF,71,2,71442,BA exakt,Beruf
 IT-Berater/in (Einstieg als Junior Consultant) bei einer Beratungsgesellschaft oder einem Systemhaus,BERUF,43,3,43223,BA exakt,Beruf
-Projektkoordinator/in bzw. Junior-Projektmanager/in im IT-Umfeld (z. B. PMO),BERUF,71,3,71303,BA exakt,Beruf
+Projektkoordinator/in bzw. Junior-Projektmanager/in im IT-Umfeld (z. B. PMO),BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 Personalreferent / HR-Manager (Recruiting & Personalentwicklung),BERUF,71,3,71513,BA exakt,Beruf
 Jobcoach oder Trainer in der Erwachsenenbildung,BERUF,71,3,71523,BA exakt,Beruf
 Promotion in Biologie oder pharmazeutischer Forschung,WQ,,,,Regel 3 (automatisch),
@@ -359,9 +359,9 @@ IT-Projektkoordinator,BERUF,43,3,43323,BA exakt,Beruf
 Promotion (PhD) in Biologie oder Biomedizin,WQ,,,,Regel 3 (automatisch),
 IT-Projektkoordinator/Junior Projektmanager (z. B. bei Unternehmen oder Konzernen),BERUF,43,3,43323,BA exakt,Beruf
 "Master-Studium (z. B. Wirtschaftsinformatik, Data Science oder Management) oder Trainee-Programm",WQ,,,,Regel 3 (automatisch),
-Qualitätsingenieur in der Industrie,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieur in der Industrie,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Junior Product Owner / Produktmanager,BERUF,71,3,71393,BA exakt,Beruf
-Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projektmanagement),BERUF,71,3,71303,BA exakt,Beruf
+Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projektmanagement),BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 "Junior IT-Berater bzw. Associate Consultant (z. B. SAP, Cloud, Digitalisierung) – Übernahme beim bisherigen Arbeitgeber oder Wechsel zu einer anderen Beratung",BERUF,43,3,43223,BA exakt,Beruf
 Business Analyst / Requirements Engineer bzw. Junior Product Owner,BERUF,71,4,71314,BA exakt,Beruf
 IT-Projektkoordinator bzw. Junior Projektmanager (PMO),BERUF,43,3,43323,BA exakt,Beruf
@@ -377,10 +377,10 @@ Junior Backend-Entwickler/in,BERUF,43,3,43413,BA exakt,Beruf
 Sozialarbeiter/in im Kliniksozialdienst oder einer Beratungsstelle,BERUF,83,4,83124,BA exakt,Beruf
 "Statistikerin oder Statistiker in Forschung, Wirtschaft oder öffentlicher Verwaltung",BERUF,41,4,41114,BA exakt,Beruf
 Dozentin oder Dozent für Mathematik und Statistik in der Weiterbildung,BERUF,84,4,84304,BA exakt,Beruf
-Junior Unternehmensberater mit Schwerpunkt Finanzen,BERUF,71,4,71324,BA exakt,Beruf
+Junior Unternehmensberater mit Schwerpunkt Finanzen,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 IT-Berater/in,BERUF,43,3,43223,BA exakt,Beruf
 Business Analyst/in,BERUF,71,4,71314,BA exakt,Beruf
-Junior Unternehmensberater (Fokus Finance/Operations),BERUF,71,4,71324,BA exakt,Beruf
+Junior Unternehmensberater (Fokus Finance/Operations),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 "Data Scientist / Machine-Learning-Engineer in der Industrie (z. B. Tech, Automobil, E-Commerce)",BERUF,43,4,43104,BA exakt,Beruf
 Versicherungsmathematiker/in (Aktuar/in) bei Versicherungen oder Rückversicherern,BERUF,41,4,41184,BA exakt,Beruf
 "Biostatistiker/in in Pharmaindustrie, CRO oder Forschungseinrichtungen",BERUF,41,4,41114,BA exakt,Beruf
@@ -393,7 +393,7 @@ Versicherungsmathematiker (Aktuar) bei Versicherungen oder Rückversicherern,BER
 "Unternehmensberater oder Analyst in Technologie-, Strategie- oder Analytics-Beratung",BERUF,71,4,71324,BA exakt,Beruf
 Junior UX-Researcher oder Marktforscher/in,BERUF,91,4,91344,BA exakt,Beruf
 Redakteurin oder Content-Managerin,BERUF,92,3,92413,BA exakt,Beruf
-Qualitätsingenieur bei einem Automobilzulieferer,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieur bei einem Automobilzulieferer,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Junior IT Consultant,BERUF,43,3,43223,BA exakt,Beruf
 "Unternehmensberaterin mit Analytics-Schwerpunkt oder Tätigkeit im öffentlichen Dienst (z. B. Statistisches Bundesamt, Bundesbank)",BERUF,71,4,71324,BA exakt,Beruf
 Sozialarbeiter/in im Allgemeinen Sozialen Dienst (ASD) beim Jugendamt,BERUF,83,4,83124,BA exakt,Beruf
@@ -453,7 +453,7 @@ Junior Produktmanager oder Applikationsspezialist im Bereich Life Sciences,BERUF
 Sozialarbeiterin in einer Familienberatungsstelle,BERUF,83,4,83124,BA exakt,Beruf
 Unternehmensberaterin (Fokus Analytics / IT),BERUF,71,4,71324,BA exakt,Beruf
 Produktionsingenieur / Fertigungsplaner,BERUF,27,4,27304,BA exakt,Beruf
-Qualitätsingenieur / Qualitätsmanager,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieur / Qualitätsmanager,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 "Masterstudium Informatik (oder ein spezialisierter Master, ggf. berufsbegleitend)",WQ,,,,Regel 3 (automatisch),
 Data Analyst / Data Engineer (mit Perspektive Data Scientist oder KI-Entwicklung),BERUF,43,3,43353,BA exakt,Beruf
 "Promotion (Doktorandin) in Mathematik, Statistik oder angewandter Mathematik",WQ,,,,Regel 3 (automatisch),
@@ -461,7 +461,7 @@ Data Analyst / Data Engineer (mit Perspektive Data Scientist oder KI-Entwicklung
 Promotion (PhD) in Mathematik oder Statistik,WQ,,,,Regel 3 (automatisch),
 Produktmanager oder Applikationsspezialist in der Life-Science-Industrie,BERUF,92,3,92113,BA exakt,Beruf
 Business Analystin / Anforderungsmanagerin (Requirements Engineer),BERUF,71,4,71314,BA exakt,Beruf
-"Projektkoordinatorin / Junior-Projektmanagerin (IT-Projektmanagement, PMO)",BERUF,71,3,71303,BA exakt,Beruf
+"Projektkoordinatorin / Junior-Projektmanagerin (IT-Projektmanagement, PMO)",BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 Data Analyst / BI-Analystin (Business Intelligence),BERUF,43,3,43353,BA exakt,Beruf
 "Sozialarbeiter/in in der Beratung, etwa Familien-, Erziehungs- oder Schuldnerberatung, oder in der Migrations- und Flüchtlingshilfe",BERUF,83,4,83124,BA exakt,Beruf
 "Masterstudium (z. B. Soziale Arbeit, Kindheitspädagogik oder Management im Sozialwesen), eventuell berufsbegleitend",WQ,,,,Regel 3 (automatisch),
@@ -480,7 +480,7 @@ Sozialarbeiter in der offenen Kinder- und Jugendarbeit,BERUF,83,4,83124,BA exakt
 Personalreferentin / Recruiterin im Bereich Human Resources (HR),BERUF,71,3,71513,BA exakt,Beruf
 Architekt/in im öffentlichen Dienst (z. B. Bauamt oder Stadtplanung),BERUF,31,4,31114,BA exakt,Beruf
 Business Analystin / Anforderungsmanagerin (Requirements Engineering),BERUF,71,4,71314,BA exakt,Beruf
-"Projektkoordinatorin / Junior Projektmanagerin (IT-Projekte, PMO)",BERUF,71,3,71303,BA exakt,Beruf
+"Projektkoordinatorin / Junior Projektmanagerin (IT-Projekte, PMO)",BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 "Masterstudium (z. B. Wirtschaftsinformatik, Data Science oder IT-Management), ggf. berufsbegleitend",WQ,,,,Regel 3 (automatisch),
 Promotion (Doktorandin) in der Biomedizin oder Pharmaforschung,WQ,,,,Regel 3 (automatisch),
 Masterstudium Psychologie (z. B. Klinische Psychologie) mit anschließender Psychotherapieausbildung,WQ,,,,Regel 3 (automatisch),
@@ -501,7 +501,7 @@ Online-Redakteur / Content Manager,BERUF,92,3,92413,BA exakt,Beruf
 "Master mit Forschungsschwerpunkt (z. B. Neurowissenschaften, Kognitionspsychologie) und anschließender Promotion",WQ,,,,Regel 3 (automatisch),
 Promotion (Ph.D.) in Mathematik oder Statistik,WQ,,,,Regel 3 (automatisch),
 IT-Berater/in (Junior Consultant) bei einer Beratungsfirma,BERUF,43,3,43223,BA exakt,Beruf
-Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte),BERUF,71,3,71303,BA exakt,Beruf
+Projektkoordinator/in bzw. Junior-Projektmanager/in (IT-Projekte),BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 Aktuarin bzw. Aktuar (Versicherungsmathematik),BERUF,41,4,41184,BA exakt,Beruf
 "Biostatistikerin bzw. Biostatistiker (Pharma, Medizintechnik, Kliniken, CROs)",BERUF,41,4,41114,BA exakt,Beruf
 Architektin in einem Architekturbüro (Vorbereitung auf die Kammermitgliedschaft),BERUF,31,4,31114,BA exakt,Beruf
@@ -509,7 +509,7 @@ Architektin im öffentlichen Dienst (z. B. Bauamt oder Landesbetriebe),BERUF,31,
 Promotion (PhD) in der Biomedizin oder Pharmazeutischen Biologie,WQ,,,,Regel 3 (automatisch),
 Junior Regulatory Affairs Manager,BERUF,81,4,81884,BA exakt,Beruf
 Projektingenieurin im technischen Projektmanagement,BERUF,27,4,27104,BA exakt,Beruf
-Qualitätsingenieurin im Bereich Automotive oder Maschinenbau,BERUF,27,4,27314,BA exakt,Beruf
+Qualitätsingenieurin im Bereich Automotive oder Maschinenbau,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Junior Controller / Trainee im Controlling (Einstieg in Unternehmen),BERUF,72,3,72233,BA exakt,Beruf
 Business Analyst / Junior Unternehmensberater/in (z. B. in kleineren oder mittelgroßen Beratungen),BERUF,71,4,71314,BA exakt,Beruf
 "Architekt/in im Architekturbüro (Entwurf und Planung, Leistungsphasen 1–5)",BERUF,31,4,31114,BA exakt,Beruf
@@ -521,7 +521,7 @@ Promotion bzw. wissenschaftliche Mitarbeit an einer Hochschule oder einem Forsch
 "Masterstudium mit Perspektive Wissenschaft oder Lehramt (z. B. Germanistik, Lehramt-Master, Editionsphilologie)",WQ,,,,Regel 3 (automatisch),
 Junior Business Analystin,BERUF,71,4,71314,BA exakt,Beruf
 Junior IT-Berater/in bzw. Associate Consultant (z. B. bei einer Unternehmensberatung oder einem IT-Dienstleister),BERUF,43,3,43223,BA exakt,Beruf
-"Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projekte, PMO)",BERUF,71,3,71303,BA exakt,Beruf
+"Projektkoordinator/in bzw. Junior Projektmanager/in (IT-Projekte, PMO)",BERUF,43,3,43323,Regel 7 (vereinheitlicht),Beruf
 Data Analyst / BI-Analyst/in (Business Intelligence),BERUF,43,3,43353,BA exakt,Beruf
 Aktuarin / Versicherungsmathematikerin bei Versicherungen oder Rückversicherern,BERUF,41,4,41184,BA exakt,Beruf
 "Biostatistikerin / Statistikerin in Pharma, Medizin oder Klinischer Forschung (z. B. CRO, Uniklinik)",BERUF,41,4,41114,BA exakt,Beruf
@@ -531,7 +531,7 @@ Referent oder Sachbearbeiter in der öffentlichen Bauverwaltung,BERUF,72,4,72134
 Unternehmensberater mit Fokus auf Analytics,BERUF,71,4,71324,BA exakt,Beruf
 "Softwareentwickler/in (Berufseinstieg, z. B. Backend, Frontend oder Fullstack)",BERUF,43,4,43414,BA exakt,Beruf
 Masterstudium Informatik (ggf. mit anschließender Promotion oder Forschungstätigkeit),WQ,,,,Regel 3 (automatisch),
-Data Engineer / Data Analyst / Junior Data Scientist,BERUF,43,4,43104,BA exakt,Beruf
+Data Engineer / Data Analyst / Junior Data Scientist,BERUF,43,3,43353,Regel 7 (vereinheitlicht),Beruf
 IT-Consultant / Technologieberater/in,BERUF,43,3,43223,BA exakt,Beruf
 Einstieg als Data Analyst bzw. Junior Data Scientist oder in Machine Learning,BERUF,43,3,43353,BA exakt,Beruf
 "Schulsozialarbeiter/in oder Jugendarbeiter/in (Jugendzentrum, mobile Jugendarbeit)",BERUF,83,4,83124,BA exakt,Beruf
@@ -583,16 +583,16 @@ Audit Associate (Wirtschaftsprüfung),BERUF,72,3,72243,Analogieregel R26,Beruf
 "Aufbauendes Masterstudium (z. B. Finance, Controlling oder Management)",WQ,,,,Analogieregel R1,
 "Bank, Versicherung oder Finanzdienstleister (z. B. Firmenkundenbetreuung, Risikomanagement, Traineeprogramm)",BERUF,72,3,72113,Entscheidung Autorin (Einzelfall),Beruf
 "Bank- und Finanzdienstleistungssektor (z. B. Firmenkundenbetreuung, Risikomanagement-Trainee)",BERUF,72,3,72113,Entscheidung Autorin (Einzelfall),Beruf
-Bauleiter/in in einem Bauunternehmen oder Planungsbüro,BERUF,31,4,31194,Analogieregel R49,Beruf
-Bauleiter/in bei einem Bauunternehmen oder Generalunternehmer,BERUF,31,4,31194,Analogieregel R49,Beruf
-"Bauleiter/in bzw. Projektleiter/in (Objektüberwachung, Leistungsphasen 6–8) bei Bauunternehmen oder Generalunternehmern",BERUF,31,4,31194,Analogieregel R49,Beruf
-Bauleiter/in oder Projektmanager/in in der Bauwirtschaft,BERUF,31,4,31194,Analogieregel R49,Beruf
-Bauleiter oder Projektsteuerer in einem Bauunternehmen,BERUF,31,4,31194,Analogieregel R49,Beruf
-Bauleiterin / Objektüberwacherin bei einem Bauunternehmen oder Generalunternehmer,BERUF,31,4,31194,Analogieregel R49,Beruf
-Bauleiterin bei einem Generalunternehmer,BERUF,31,4,31194,Analogieregel R49,Beruf
-Einstieg in die Bauleitung oder Objektüberwachung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
-"Bauleitung bzw. Projektmanagement bei Bauunternehmen, Projektentwicklern oder Generalplanern",BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
-Einstieg in die Bauleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Bauleiter/in in einem Bauunternehmen oder Planungsbüro,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Bauleiter/in bei einem Bauunternehmen oder Generalunternehmer,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+"Bauleiter/in bzw. Projektleiter/in (Objektüberwachung, Leistungsphasen 6–8) bei Bauunternehmen oder Generalunternehmern",BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Bauleiter/in oder Projektmanager/in in der Bauwirtschaft,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Bauleiter oder Projektsteuerer in einem Bauunternehmen,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Bauleiterin / Objektüberwacherin bei einem Bauunternehmen oder Generalunternehmer,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Bauleiterin bei einem Generalunternehmer,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Beruf
+Einstieg in die Bauleitung oder Objektüberwachung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+"Bauleitung bzw. Projektmanagement bei Bauunternehmen, Projektentwicklern oder Generalplanern",BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+Einstieg in die Bauleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 "Tätigkeit in Bauämtern oder der öffentlichen Verwaltung (z. B. Stadtplanung, Bauaufsicht, Hochbauamt)",BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
 "Beratende oder unterstützende Tätigkeit in der Sozial- und Gesundheitsbranche (z. B. Beratungsstelle, Jugendhilfe, Suchthilfe, Klinik als Assistenz)",BERUF,83,4,83154,Entscheidung Autorin (beratung),Beruf
 Berater/in in einer Erziehungs- oder Familienberatungsstelle,BERUF,83,4,83154,Analogieregel R59,Beruf
@@ -618,7 +618,7 @@ Berufsbegleitendes Masterstudium (z.B. Soziale Arbeit oder Sozialmanagement),WQ,
 Berufseinsteiger in der Wirtschaftsprüfung,BERUF,72,3,72243,Analogieregel R26,Beruf
 Berufseinstieg in einem Architekturbüro,BERUF,31,4,31114,Analogieregel R47,Taetigkeitsfeld
 "Berufseinstieg in der psychosozialen Beratung (z. B. Beratungsstellen, Jugendhilfe, Suchtberatung, Sozialpsychiatrischer Dienst)",BERUF,83,4,83154,Entscheidung Autorin (beratung),Taetigkeitsfeld
-Berufseinstieg in der Bauleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Berufseinstieg in der Bauleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 "Berufseinstieg in der sozialen Beratung, Jugend- oder Suchthilfe (ggf. mit berufsbegleitender Weiterbildung)",BERUF,83,4,83154,Entscheidung Autorin (beratung),Taetigkeitsfeld
 Berufseinstieg in der Projektentwicklung,BERUF,61,4,61314,Entscheidung Autorin (bau_projektmanagement),Taetigkeitsfeld
 "Berufseinstieg in psychosozialer Beratung oder Sozialer Arbeit (z. B. Beratungsstellen, Jugendhilfe, Suchthilfe)",BERUF,83,4,83154,Entscheidung Autorin (beratung),Taetigkeitsfeld
@@ -674,55 +674,55 @@ Clinical Research Associate (CRA) bzw. klinische Forschung / Studienmanagement,B
 Clinical Research Associate (CRA) bzw. Clinical Trial Manager in klinischen Studien,BERUF,81,4,81884,Analogieregel R16,Beruf
 Clinical Research Associate (CRA) bzw. Klinische Forschung / Regulatory Affairs,BERUF,81,4,81884,Analogieregel R16,Beruf
 Cloud-/DevOps-Engineer oder IT-Systemintegration,BERUF,43,3,43323,Analogieregel R33,Beruf
-Junior Consultant für Finance und Controlling,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant für betriebswirtschaftliche Beratung,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Fokus Finance/Controlling),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Unternehmensberatung mit Fokus auf Finanzen),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant mit Schwerpunkt Finance,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Fokus Finance / Unternehmenssteuerung),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Fokus Finance/Performance),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Fokus Finance & Controlling),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant im Bereich Finance,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant im Bereich Finance und Controlling,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Unternehmensberatung mit Fokus auf Finance/Performance),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant für Finanz- und Prozessberatung,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant für Finance oder Unternehmenssteuerung,BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Finance / Operations),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Fokus Finance oder Operations),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Unternehmensberatung mit Fokus Finanzen),BERUF,71,4,71324,Analogieregel R29,Beruf
-Junior Consultant (Unternehmensberatung mit Fokus Finanzen/Prozesse),BERUF,71,4,71324,Analogieregel R29,Beruf
-"Consulting-Einstieg bei kleineren oder mittelgroßen Unternehmensberatungen (Schwerpunkt Finance, Controlling oder Prozessoptimierung)",BERUF,71,4,71324,Analogieregel R29,Beruf
-"Consulting-Einstieg (z. B. Junior Consultant im Bereich Finance, Performance Management oder Business Analytics)",BERUF,71,4,71324,Analogieregel R29,Beruf
-"Content Marketing, Redaktion oder Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92113,Analogieregel R11,Beruf
-Content Marketing/Redaktion/Texter:in in Agentur oder Unternehmen,BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texter:in oder Redakteur:in (Online-Redaktion, Agentur, Unternehmenskommunikation)",BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texter/in oder Kommunikation/PR in Unternehmen oder Agenturen",BERUF,92,3,92113,Analogieregel R11,Beruf
-Content Marketing / Texterstellung (Copywriting),BERUF,92,3,92113,Analogieregel R11,Beruf
-Content Marketing / Copywriting,BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Redaktion oder Texten (Agentur oder Unternehmen)",BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texter/in oder Redakteur/in im Online- und Unternehmensbereich",BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texterin oder Social-Media-Redaktion (Agentur oder Unternehmen)",BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Redaktion und Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texten und Redaktion (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92113,Analogieregel R11,Beruf
-Content Marketing / Online-Redaktion,BERUF,92,3,92113,Analogieregel R11,Beruf
-"Content Marketing, Texter:in oder PR/Unternehmenskommunikation",BERUF,92,3,92113,Analogieregel R11,Beruf
-Content Marketing und Copywriting,BERUF,92,3,92113,Analogieregel R11,Beruf
+Junior Consultant für Finance und Controlling,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant für betriebswirtschaftliche Beratung,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Fokus Finance/Controlling),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Unternehmensberatung mit Fokus auf Finanzen),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant mit Schwerpunkt Finance,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Fokus Finance / Unternehmenssteuerung),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Fokus Finance/Performance),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Fokus Finance & Controlling),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant im Bereich Finance,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant im Bereich Finance und Controlling,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Unternehmensberatung mit Fokus auf Finance/Performance),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant für Finanz- und Prozessberatung,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant für Finance oder Unternehmenssteuerung,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Finance / Operations),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Fokus Finance oder Operations),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Unternehmensberatung mit Fokus Finanzen),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Consultant (Unternehmensberatung mit Fokus Finanzen/Prozesse),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+"Consulting-Einstieg bei kleineren oder mittelgroßen Unternehmensberatungen (Schwerpunkt Finance, Controlling oder Prozessoptimierung)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+"Consulting-Einstieg (z. B. Junior Consultant im Bereich Finance, Performance Management oder Business Analytics)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Redaktion oder Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Content Marketing/Redaktion/Texter:in in Agentur oder Unternehmen,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texter:in oder Redakteur:in (Online-Redaktion, Agentur, Unternehmenskommunikation)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texter/in oder Kommunikation/PR in Unternehmen oder Agenturen",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Content Marketing / Texterstellung (Copywriting),BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Content Marketing / Copywriting,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Redaktion oder Texten (Agentur oder Unternehmen)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texter/in oder Redakteur/in im Online- und Unternehmensbereich",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texterin oder Social-Media-Redaktion (Agentur oder Unternehmen)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Redaktion und Texten (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texten und Redaktion (Agentur, Unternehmen, Online-Medien)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Content Marketing / Online-Redaktion,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content Marketing, Texter:in oder PR/Unternehmenskommunikation",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Content Marketing und Copywriting,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Content- oder Online-Redaktion,BERUF,92,3,92413,Analogieregel R10,Beruf
-Content- oder Copywriting für Agenturen,BERUF,92,3,92113,Analogieregel R12,Beruf
-"Content-Marketing, Redaktion und Texten (Agentur oder Unternehmen)",BERUF,92,3,92113,Analogieregel R11,Taetigkeitsfeld
-"Content-Marketing, Redaktion oder PR/Unternehmenskommunikation",BERUF,92,3,92113,Analogieregel R11,Taetigkeitsfeld
-"Content-Marketing, Texter/in oder PR/Unternehmenskommunikation",BERUF,92,3,92113,Analogieregel R11,Taetigkeitsfeld
+Content- oder Copywriting für Agenturen,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+"Content-Marketing, Redaktion und Texten (Agentur oder Unternehmen)",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+"Content-Marketing, Redaktion oder PR/Unternehmenskommunikation",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+"Content-Marketing, Texter/in oder PR/Unternehmenskommunikation",BERUF,92,3,92413,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Content-Redaktion oder Unternehmenskommunikation,BERUF,92,3,92413,Analogieregel R10,Taetigkeitsfeld
 Content-Redaktion oder Online-Redaktion,BERUF,92,3,92413,Analogieregel R10,Taetigkeitsfeld
 Content-Redaktion,BERUF,92,3,92413,Analogieregel R10,Taetigkeitsfeld
 Content-Redaktion oder Copywriting,BERUF,92,3,92413,Analogieregel R10,Taetigkeitsfeld
-Junior Copywriter / Texter in einer Werbeagentur,BERUF,92,3,92113,Analogieregel R12,Beruf
-Copywriterin / Texterin in einer Marketingagentur,BERUF,92,3,92113,Analogieregel R12,Beruf
+Junior Copywriter / Texter in einer Werbeagentur,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Copywriterin / Texterin in einer Marketingagentur,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 "Data/BI-Analyst/in oder Datenmanagement (Reporting, Analytics)",BERUF,43,3,43353,Analogieregel R23,Beruf
 "Data / BI Analyst (Business Intelligence, Reporting, Analytics)",BERUF,43,3,43353,Analogieregel R23,Beruf
 "Data/BI-Analyst/in (Business Intelligence, Reporting, Datenanalyse)",BERUF,43,3,43353,Analogieregel R23,Beruf
-"Einstieg in Data Engineering, Data Analytics oder KI/Machine Learning (als Junior)",BERUF,43,4,43104,Analogieregel R24,Taetigkeitsfeld
-"Einstieg in Data Engineering, Data Science oder KI-Entwicklung",BERUF,43,4,43104,Analogieregel R24,Taetigkeitsfeld
+"Einstieg in Data Engineering, Data Analytics oder KI/Machine Learning (als Junior)",BERUF,43,3,43353,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+"Einstieg in Data Engineering, Data Science oder KI-Entwicklung",BERUF,43,3,43353,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 "Data-/BI-Analyst/in (Business Intelligence, Reporting, Analytics)",BERUF,43,3,43353,Analogieregel R23,Beruf
 Tätigkeit in der Immobilienprojektentwicklung,BERUF,61,4,61314,Entscheidung Autorin (bau_projektmanagement),Taetigkeitsfeld
 "Tätigkeit in der psychosozialen Beratung oder Betreuung (z. B. Beratungsstellen, Jugendhilfe, Suchthilfe, Sozialpsychiatrie) als Berufseinstieg oder Werkstudentenjob",BERUF,83,4,83154,Entscheidung Autorin (beratung),Taetigkeitsfeld
@@ -801,8 +801,8 @@ Fachkraft in einer Einrichtung der Kinder- und Jugendhilfe,BERUF,83,4,83124,Anal
 Fachkraft in einer Jugend- oder Familienberatungsstelle,BERUF,83,4,83154,Analogieregel R59,Beruf
 "Fachkraft im Pflegekinderdienst, Adoptionsvermittlung oder in Beratungsstellen (z. B. Erziehungs- und Familienberatung)",BERUF,83,4,83124,Analogieregel R58,Beruf
 Fachkraft in einer Beratungsstelle oder im sozialen Bereich,BERUF,83,4,83154,Entscheidung Autorin (beratung),Beruf
-Financial / Business Analyst,BERUF,72,4,72144,Analogieregel R21,Beruf
-Junior Financial / Business Analyst,BERUF,72,4,72144,Analogieregel R21,Beruf
+Financial / Business Analyst,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
+Junior Financial / Business Analyst,BERUF,71,4,71314,Regel 7 (vereinheitlicht),Beruf
 Finanz- und Rechnungswesen (Financial Accountant / Business Analyst Finance),BERUF,72,3,72213,Analogieregel R28,Beruf
 Finanz- und Rechnungswesen (Junior Accountant / Finanzbuchhalterin),BERUF,72,3,72213,Analogieregel R28,Beruf
 "Einstieg im Finanz- und Rechnungswesen (z. B. Finanzbuchhaltung, Junior Accountant) mit Weiterbildung zum Bilanzbuchhalter oder Steuerberater/WP",BERUF,72,3,72213,Analogieregel R28,Taetigkeitsfeld
@@ -853,7 +853,7 @@ Trainee im Bereich Finance & Accounting,BERUF,72,3,72213,Analogieregel R28,Beruf
 Trainee im Bereich Finance und Controlling,BERUF,72,4,72234,Analogieregel R27,Beruf
 Trainee im Bereich Finanzen & Controlling,BERUF,72,4,72234,Analogieregel R27,Beruf
 Trainee im Bereich Finanzen und Controlling,BERUF,72,4,72234,Analogieregel R27,Beruf
-Trainee im Finanz- oder Controllingbereich,UNSPEZ,,,,Entscheidung Autorin (trainee),
+Trainee im Finanz- oder Controllingbereich,BERUF,72,4,72234,Regel 7 (vereinheitlicht),
 Trainee im Finanz- und Controllingbereich,BERUF,72,4,72234,Analogieregel R27,Beruf
 Trainee im Finanz- und Rechnungswesen,BERUF,72,3,72213,Analogieregel R28,Beruf
 Trainee im Finanzbereich,UNSPEZ,,,,Entscheidung Autorin (trainee),
@@ -871,8 +871,8 @@ Industriepromotion (PhD) in der Pharmaforschung,WQ,,,,Analogieregel R1,
 "Ingenieur/in in der Simulation und Berechnung (CAE, FEM, CFD) bzw. Versuch und Validierung",BERUF,27,4,27104,Entscheidung Autorin (ingenieur_allgemein),Beruf
 "Ingenieurin in Produktion, Qualitätsmanagement oder Prozessoptimierung",BERUF,27,4,27304,Entscheidung Autorin (ingenieur_allgemein),Beruf
 Ingenieurin im technischen Projektmanagement,BERUF,27,4,27104,Entscheidung Autorin (ingenieur_allgemein),Beruf
-"Ingenieurin in Qualitätsmanagement, Versuch/Validierung oder Produktion/Fertigungsplanung",BERUF,27,4,27314,Entscheidung Autorin (ingenieur_allgemein),Beruf
-"Ingenieurin in Qualitätsmanagement, Produktion oder Fertigungsplanung",BERUF,27,4,27314,Entscheidung Autorin (ingenieur_allgemein),Beruf
+"Ingenieurin in Qualitätsmanagement, Versuch/Validierung oder Produktion/Fertigungsplanung",BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+"Ingenieurin in Qualitätsmanagement, Produktion oder Fertigungsplanung",BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Inhouse IT-Consultant (z. B. für ERP-Systeme wie SAP),BERUF,43,3,43223,Analogieregel R31,Beruf
 Inhouse IT-Consultant / ERP-Berater,BERUF,43,3,43223,Analogieregel R31,Beruf
 Inhouse IT-Consultant (z. B. für ERP- oder CRM-Systeme),BERUF,43,3,43223,Analogieregel R31,Beruf
@@ -920,7 +920,7 @@ Junior-Berater für Organisationsentwicklung und Change Management,BERUF,71,4,71
 Junior-Beraterin im Bereich Betriebliches Gesundheitsmanagement (BGM),BERUF,82,4,82214,Analogieregel R61,Beruf
 Junior-BIM-Koordinator oder BIM-Modellierer,BERUF,31,4,31104,Analogieregel R48,Beruf
 Junior-Data-Analystin,BERUF,43,3,43353,Analogieregel R23,Beruf
-Junior-Data-Engineerin,BERUF,43,4,43104,Analogieregel R24,Beruf
+Junior-Data-Engineerin,BERUF,43,3,43353,Regel 7 (vereinheitlicht),Beruf
 Junior-IT-Beraterin,BERUF,43,3,43223,Analogieregel R36,Beruf
 Junior-IT-Projektmanager/in,BERUF,43,3,43323,Analogieregel R30,Beruf
 Junior-Marktforscherin oder UX-Researcherin,BERUF,91,4,91344,Analogieregel R66,Beruf
@@ -940,14 +940,14 @@ Junior-Referent/in im Betrieblichen Gesundheitsmanagement (BGM),BERUF,82,4,82214
 Junior-Referentin für PR und Unternehmenskommunikation,BERUF,92,3,92203,Analogieregel R15,Beruf
 Junior-Softwareentwicklerin,BERUF,43,4,43414,Analogieregel R35,Beruf
 Junior-Testautomatisiererin,BERUF,43,3,43323,Analogieregel R34,Beruf
-Junior-Texter oder Content-Redakteur,BERUF,92,3,92113,Analogieregel R12,Beruf
-Junior-Texter / Content-Manager (Agenturen oder Unternehmen),BERUF,92,3,92113,Analogieregel R12,Beruf
-Junior-Texter / Copywriter in einer Marketingagentur,BERUF,92,3,92113,Analogieregel R12,Beruf
-Junior-Texterin oder Content-Redakteurin,BERUF,92,3,92113,Analogieregel R12,Beruf
+Junior-Texter oder Content-Redakteur,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Junior-Texter / Content-Manager (Agenturen oder Unternehmen),BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Junior-Texter / Copywriter in einer Marketingagentur,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
+Junior-Texterin oder Content-Redakteurin,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Beruf
 Junior-Trainer/in in der Personalentwicklung oder Weiterbildung,BERUF,71,4,71514,Analogieregel R63,Beruf
 Juniorposition in der Bau- und Projektplanung,BERUF,31,4,31104,Entscheidung Autorin (bau_projektmanagement),Beruf
 Juniorposition im Bereich Building Information Modeling (BIM),BERUF,31,4,31104,Analogieregel R48,Beruf
-Juniorposition in der Bauleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Juniorposition in der Bauleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Juniorposition in der Markt- oder Nutzerforschung,BERUF,91,4,91344,Analogieregel R66,Beruf
 Klinische Forschung (Clinical Research Associate / Clinical Trial Manager),BERUF,81,4,81884,Analogieregel R16,Taetigkeitsfeld
 Klinische Forschung / Clinical Research Associate (CRA) oder Clinical Trial Management,BERUF,81,4,81884,Analogieregel R16,Taetigkeitsfeld
@@ -986,7 +986,7 @@ Lektorat bzw. Volontariat im Verlag (Lektoratsassistenz),BERUF,92,4,92424,Analog
 Lektorat/Redaktion im Verlag (Volontariat oder Junglektorat),BERUF,92,4,92424,Analogieregel R6,Taetigkeitsfeld
 Lektoratsassistenz in einem Verlag,BERUF,92,4,92424,Analogieregel R5,Beruf
 Lektoratsassistenz,BERUF,92,4,92424,Analogieregel R5,Beruf
-"Einstieg im Management Consulting oder in der Unternehmensberatung (Junior Consultant, Business Analyst)",BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
+"Einstieg im Management Consulting oder in der Unternehmensberatung (Junior Consultant, Business Analyst)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Junior Manager im Bereich Qualitätskontrolle (QC) oder Qualitätssicherung (QA),BERUF,27,4,27314,Entscheidung Autorin (qualitaet_pharma),Beruf
 "Quereinstieg in Marketing, UX-Design oder Verhaltensökonomie",BERUF,92,3,92113,Entscheidung Autorin (Einzelfall),Taetigkeitsfeld
 "Tätigkeit in Markt-/Sozialforschung, UX-Research oder Datenanalyse",BERUF,91,4,91344,Analogieregel R66,Taetigkeitsfeld
@@ -1026,7 +1026,7 @@ Mitarbeit im Kulturmanagement oder in Stiftungen,BERUF,63,4,63404,Analogieregel 
 Mitarbeit in einer Literatur- oder Kultureinrichtung,UNSPEZ,,,,Entscheidung Autorin (Einzelfall),
 Mitarbeit im Kulturmanagement,BERUF,63,4,63404,Analogieregel R67,Taetigkeitsfeld
 Mitarbeit in der Bauplanung einer öffentlichen Verwaltung,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
-Mitarbeit in der Bauleitung oder im Projektmanagement,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Mitarbeit in der Bauleitung oder im Projektmanagement,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Mitarbeit in der Architekturvisualisierung,BERUF,31,4,31114,Analogieregel R47,Taetigkeitsfeld
 Mitarbeit in einem kommunalen Hochbauamt,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
 Mitarbeit in Architekturvisualisierung oder Wettbewerbsbearbeitung,BERUF,31,4,31114,Analogieregel R47,Taetigkeitsfeld
@@ -1039,7 +1039,7 @@ Mitarbeit im betrieblichen Gesundheitsmanagement,BERUF,82,4,82214,Analogieregel 
 Mitarbeit in einer kommunalen Bau- oder Planungsverwaltung,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
 Mitarbeit in einem Büro für nachhaltiges Bauen,BERUF,31,4,31104,Entscheidung Autorin (nachhaltiges_bauen),Taetigkeitsfeld
 Mitarbeit im klinischen Studienmanagement,BERUF,81,4,81884,Analogieregel R16,Taetigkeitsfeld
-Mitarbeit in der Bauleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Mitarbeit in der Bauleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Mitarbeit im BIM- und digitalen Gebäudemodellmanagement,BERUF,31,4,31104,Analogieregel R48,Taetigkeitsfeld
 Mitarbeit im Personalwesen,BERUF,71,3,71513,Analogieregel R65,Taetigkeitsfeld
 Mitarbeit im Management klinischer Studien,BERUF,81,4,81884,Analogieregel R16,Taetigkeitsfeld
@@ -1087,7 +1087,7 @@ Mitarbeiterin in der präklinischen Forschung,BERUF,41,4,41204,Entscheidung Auto
 Mitarbeiterin im Kulturmanagement oder in Kultureinrichtungen,BERUF,63,4,63404,Analogieregel R67,Taetigkeitsfeld
 Mitarbeiterin im Qualitätsmanagement (QA/QC) in der Biotech- oder Pharmabranche,BERUF,27,4,27314,Entscheidung Autorin (qualitaet_pharma),Taetigkeitsfeld
 Mitarbeiterin in der Bauverwaltung einer Kommune,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
-Mitarbeiterin in der Bauleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Mitarbeiterin in der Bauleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Mitarbeiterin in der Presse- und Öffentlichkeitsarbeit,BERUF,92,3,92203,Analogieregel R15,Taetigkeitsfeld
 Berufseinstieg als Mitarbeiterin in einem Architekturbüro,BERUF,31,4,31114,Analogieregel R47,Beruf
 Mitarbeiterin im Bereich klinische Studien,BERUF,81,4,81884,Analogieregel R16,Taetigkeitsfeld
@@ -1101,7 +1101,7 @@ Mitarbeiterin im öffentlichen Dienst (z. B. Bauamt oder Stadtplanung),BERUF,31,
 Mitarbeiterin in einer Jugend- oder Familienberatungsstelle,BERUF,83,4,83154,Analogieregel R59,Taetigkeitsfeld
 Mitarbeiterin in der Entwurfs- und Wettbewerbsplanung,BERUF,31,4,31114,Analogieregel R47,Taetigkeitsfeld
 Mitarbeiterin in der Ausführungsplanung,BERUF,31,4,31114,Analogieregel R47,Taetigkeitsfeld
-Mitarbeiterin in der Bau- oder Projektleitung,BERUF,31,4,31194,Analogieregel R49,Taetigkeitsfeld
+Mitarbeiterin in der Bau- oder Projektleitung,BERUF,31,4,31104,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Mitarbeiterin in der kommunalen Bauverwaltung,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
 Mitarbeiterin in der Unternehmenskommunikation,BERUF,92,3,92203,Analogieregel R15,Taetigkeitsfeld
 Mitarbeiterin in der öffentlichen Bauverwaltung,BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
@@ -1221,14 +1221,14 @@ Pädagogische Fachkraft in einer Wohngruppe für Jugendliche,BERUF,83,4,83124,An
 Junior QA / Test Automation Engineer,BERUF,43,3,43323,Analogieregel R34,Beruf
 QA Engineer / Software-Tester,BERUF,43,3,43323,Analogieregel R34,Beruf
 Junior Quality Assurance (QA) / Test Automation Engineer,BERUF,43,3,43323,Analogieregel R34,Beruf
-Qualitäts- oder Produktionsingenieur in der Fertigungsindustrie,BERUF,27,4,27314,Analogieregel R42,Beruf
-Qualitäts- oder Prozessingenieurin in der Produktion,BERUF,27,4,27314,Analogieregel R42,Beruf
-"Qualitäts- oder Produktionsingenieur/in (Fertigungsplanung, Prozessoptimierung, Qualitätsmanagement)",BERUF,27,4,27314,Analogieregel R42,Beruf
-"Qualitäts-, Produktions- oder Prozessingenieur/in (z. B. Fertigungsplanung, Qualitätsmanagement)",BERUF,27,4,27314,Analogieregel R42,Beruf
-"Qualitäts- oder Versuchsingenieur/in (Validierung, Testing, Qualitätsmanagement)",BERUF,27,4,27314,Analogieregel R42,Beruf
-Qualitäts- oder Prozessingenieur in verwandten Hochtechnologiebranchen (z. B. Luft- und Raumfahrt),BERUF,27,4,27314,Analogieregel R42,Beruf
-Qualitäts- oder Prozessingenieurin im Automotive-Sektor,BERUF,27,4,27314,Analogieregel R42,Beruf
-Qualitäts- oder Prozessingenieur in der Produktion,BERUF,27,4,27314,Analogieregel R42,Beruf
+Qualitäts- oder Produktionsingenieur in der Fertigungsindustrie,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+Qualitäts- oder Prozessingenieurin in der Produktion,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+"Qualitäts- oder Produktionsingenieur/in (Fertigungsplanung, Prozessoptimierung, Qualitätsmanagement)",BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+"Qualitäts-, Produktions- oder Prozessingenieur/in (z. B. Fertigungsplanung, Qualitätsmanagement)",BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+"Qualitäts- oder Versuchsingenieur/in (Validierung, Testing, Qualitätsmanagement)",BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+Qualitäts- oder Prozessingenieur in verwandten Hochtechnologiebranchen (z. B. Luft- und Raumfahrt),BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+Qualitäts- oder Prozessingenieurin im Automotive-Sektor,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
+Qualitäts- oder Prozessingenieur in der Produktion,BERUF,27,4,27304,Regel 7 (vereinheitlicht),Beruf
 Qualitätskontrolle in der Pharma- oder Biotechnologiebranche,BERUF,27,4,27314,Entscheidung Autorin (qualitaet_pharma),Taetigkeitsfeld
 Qualitätskontrolle oder Qualitätssicherung in der Pharmaindustrie,BERUF,27,4,27314,Entscheidung Autorin (qualitaet_pharma),Taetigkeitsfeld
 Qualitätskontrolle (QC) oder Qualitätsmanagement (QA) in der Biotech- und Pharmabranche,BERUF,27,4,27314,Entscheidung Autorin (qualitaet_pharma),Taetigkeitsfeld
@@ -1427,7 +1427,7 @@ Trainee-Programm oder Einstieg als IT-Beraterin / Business Analyst,BERUF,43,,,En
 Trainee-Programm im IT-Bereich,BERUF,43,,,Entscheidung Autorin (trainee),Taetigkeitsfeld
 "Trainee-Programm oder Direkteinstieg in Finanzen und Rechnungswesen (z. B. Finance-Trainee, Buchhaltung, Accounting)",UNSPEZ,,,,Entscheidung Autorin (trainee),
 Trainee-Programm in einem Pharma- oder Biotech-Unternehmen,UNSPEZ,,,,Entscheidung Autorin (trainee),
-Trainee-Programm im Bereich Finance oder Controlling,UNSPEZ,,,,Entscheidung Autorin (trainee),
+Trainee-Programm im Bereich Finance oder Controlling,BERUF,72,4,72234,Regel 7 (vereinheitlicht),
 Trainee-Programm im Bereich Finanzen,UNSPEZ,,,,Entscheidung Autorin (trainee),
 Trainee-Programm (Fokus Finanzen / Controlling),BERUF,72,4,72234,Analogieregel R27,Taetigkeitsfeld
 Trainee-Programm oder Junior-Position in der IT-Beratung (z. B. Technologieberatung),BERUF,43,,,Entscheidung Autorin (trainee),Taetigkeitsfeld
@@ -1448,19 +1448,19 @@ Tätigkeit im Management klinischer Studien,BERUF,81,4,81884,Analogieregel R16,T
 Tätigkeit im öffentlichen Dienst (z. B. Bauamt oder Stadtplanung),BERUF,31,4,31104,Entscheidung Autorin (oeffentlicher_dienst),Taetigkeitsfeld
 Unternehmens- oder IT-Beraterin (Fokus Analytics),BERUF,71,4,71324,Analogieregel R29,Beruf
 Unternehmensberatung mit Analytics-Schwerpunkt oder Operations Research / Optimierung in Industrie und Logistik,BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-"Unternehmensberatung (Junior Consultant, z. B. mit Fokus auf Finance oder Performance Management)",BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
+"Unternehmensberatung (Junior Consultant, z. B. mit Fokus auf Finance oder Performance Management)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 "Unternehmensberatung mit Analytics-Fokus oder Tätigkeit im öffentlichen Dienst bzw. Lehramt/Lehre (z. B. Statistisches Bundesamt, Hochschullehre)",BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
 Unternehmensberatung oder Analytics-Beratung (z. B. Management- bzw. Technologieberatung),BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-"Unternehmensberatung (Junior Consultant, z. B. bei mittelgroßen Beratungen)",BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-Einstieg in die Unternehmensberatung oder Wirtschaftsprüfung/Steuerberatung (Junior Consultant bzw. Assistent),BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-"Unternehmensberatung (Junior Consultant, Schwerpunkt Finance/Performance Management)",BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-Unternehmensberatung oder Business Analyst (Junior),BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
-Unternehmensberatung oder Business Analyst in Strategie-/Prozessberatung (kleinere und mittlere Beratungen),BERUF,71,4,71324,Analogieregel R29,Taetigkeitsfeld
+"Unternehmensberatung (Junior Consultant, z. B. bei mittelgroßen Beratungen)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+Einstieg in die Unternehmensberatung oder Wirtschaftsprüfung/Steuerberatung (Junior Consultant bzw. Assistent),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+"Unternehmensberatung (Junior Consultant, Schwerpunkt Finance/Performance Management)",BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+Unternehmensberatung oder Business Analyst (Junior),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
+Unternehmensberatung oder Business Analyst in Strategie-/Prozessberatung (kleinere und mittlere Beratungen),BERUF,71,4,71314,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Unternehmenskommunikation / Public Relations (PR),BERUF,92,3,92203,Analogieregel R15,Taetigkeitsfeld
 "Einstieg in Unternehmenskommunikation, Personal- oder Bildungsbereich (z. B. Trainee, Erwachsenenbildung, Deutsch als Fremdsprache)",BERUF,92,3,92203,Analogieregel R15,Taetigkeitsfeld
 Einstieg in Unternehmenskommunikation oder PR,BERUF,92,3,92203,Analogieregel R15,Taetigkeitsfeld
 Verlagsassistenz,BERUF,92,2,92302,Analogieregel R13,Beruf
-Verlagsmarketing oder Pressearbeit,BERUF,92,3,92113,Entscheidung Autorin (Einzelfall),Taetigkeitsfeld
+Verlagsmarketing oder Pressearbeit,BERUF,92,3,92413,Regel 7 (vereinheitlicht),Taetigkeitsfeld
 Versuchs- und Erprobungsingenieur,BERUF,27,4,27104,Analogieregel R38,Beruf
 Versuchs- und Prüfingenieur,BERUF,27,4,27104,Analogieregel R38,Beruf
 Versuchs- und Prüfingenieurin,BERUF,27,4,27104,Analogieregel R38,Beruf
@@ -1530,7 +1530,7 @@ Wissenschaftliche Mitarbeit / Projektassistenz an Hochschulen,BERUF,84,4,84304,E
 Wissenschaftliche Mitarbeit / Forschungsassistenz,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeit oder Studienassistenz,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeit,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftliche Mitarbeit mit Promotion (Mathematik/Statistik),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftliche Mitarbeit mit Promotion (Mathematik/Statistik),WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftliche Mitarbeit bzw. Laborleitung in Forschung und Entwicklung (Pharma/Biotech),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche:r Mitarbeiter:in / Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche/r Mitarbeiter/in in der pharmazeutischen oder biotechnologischen Forschung und Entwicklung (F&E),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
@@ -1540,12 +1540,12 @@ Wissenschaftliche/r Mitarbeiter/in mit Promotion (Forschung an Universität oder
 Wissenschaftliche/r Mitarbeiter/in mit Option zur Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche/r Mitarbeiter/in bzw. Laborspezialist/in in der Pharma- oder Biotechnologie-Industrie (F&E),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeiterin in der pharmazeutischen Forschung und Entwicklung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftliche Mitarbeiterin oder wissenschaftlicher Mitarbeiter mit Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftliche Mitarbeiterin oder wissenschaftlicher Mitarbeiter mit Promotion,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftliche Mitarbeiterin in einem Biotechnologieunternehmen,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftliche Mitarbeiterin mit Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftliche Mitarbeiterin mit Promotion,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftliche Mitarbeiterin an einer Hochschule,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeiterin (R&D) in der Pharmaindustrie,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftliche Mitarbeiterin / Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftliche Mitarbeiterin / Promotion,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftliche Mitarbeiterin (Research Associate) in der Pharmaforschung (F&E),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeiterin oder Studienassistenz in der psychologischen Forschung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeiterin mit Promotion (Forschungsinstitut oder Universität) oder Entwicklungsrolle in der Forschung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
@@ -1553,17 +1553,17 @@ Wissenschaftliche Mitarbeiterin / Laborleiterin (Research Associate) in der Phar
 "Wissenschaftliche Mitarbeiterin / Laborspezialistin in Pharma- oder Biotechnologieunternehmen (F&E, Qualitätskontrolle, Analytik)",BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 "Wissenschaftliche Mitarbeiterin an Forschungsinstituten oder Behörden (z. B. Max-Planck, Helmholtz, Paul-Ehrlich-Institut, RKI)",BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 "Wissenschaftliche Mitarbeiterin bzw. Promotion (Hochschule, Forschungsinstitut oder industrienahe Promotion)",BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftliche Mitarbeiterin mit Promotionsmöglichkeit,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftliche Mitarbeiterin mit Promotionsmöglichkeit,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftliche Mitarbeiterin in der biotechnologischen Forschung und Entwicklung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Mitarbeiterin und Promotion an einer Hochschule,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftliche Projektmitarbeit an Hochschulen oder Instituten,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftlicher Mitarbeiter mit Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftlicher Mitarbeiter mit Promotion,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftlicher Mitarbeiter in der pharmazeutischen Forschung und Entwicklung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftlicher Mitarbeiter in der pharmazeutischen Forschung,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftlicher Mitarbeiter (F&E) in der Pharmaindustrie,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftlicher Mitarbeiter in einem biotechnologischen Unternehmen,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftlicher Mitarbeiter (Promotion),BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
-Wissenschaftlicher Mitarbeiter / Promotion,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
+Wissenschaftlicher Mitarbeiter (Promotion),WQ,,,,Regel 7 (vereinheitlicht),Beruf
+Wissenschaftlicher Mitarbeiter / Promotion,WQ,,,,Regel 7 (vereinheitlicht),Beruf
 Wissenschaftlicher Mitarbeiter oder Entwickler an einer Hochschule,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftlicher Mitarbeiter oder Doktorand an einer Hochschule,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf
 Wissenschaftlicher Mitarbeiter an einer Hochschule,BERUF,84,4,84304,Entscheidung Autorin (wiss_mitarbeit),Beruf

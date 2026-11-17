@@ -21,6 +21,18 @@ Festgelegt vor der Hauptdatenerhebung (nach dem Pilot, 15.11.2026).
    Kategorie in Überschneidungsmaße ein, nicht aber in Analysen nach Berufshauptgruppe und Niveau.
    Ist nur das Berufsfeld bekannt (z. B. „IT-Trainee“), wird nur die Berufshauptgruppe vergeben.
 
+7. **Reihenfolge entscheidet nicht (Ergänzung zu Regel 2):** Nennt eine Empfehlung mehrere
+   Tätigkeiten in einer Aufzählung, ist deren Reihenfolge inhaltlich beliebig. Innerhalb eines
+   Profils erhalten deshalb Empfehlungen, die dieselben Tätigkeiten nennen, denselben Code;
+   gewählt wird die Fassung, die im Profil häufiger vorkommt, bei Gleichstand die inhaltlich
+   spezifischere Systematikposition. Die betroffenen Fälle wurden gefunden, indem die Titel je
+   Profil auf ihre Wortmenge normalisiert und alle Gruppen mit mehr als einem Code von Hand
+   geprüft wurden; eine Gruppe wurde dabei als Fehltreffer verworfen. Ergebnis: neun Gruppen,
+   123 Titel, 166 von 2250 Berufsempfehlungen. Die vollständige Liste steht in
+   `codebook/vereinheitlichung.csv`, angewandt durch `scripts/vereinheitliche_codes.py`
+   (läuft nach `finalisiere_beruf.py`). Diese Regel wurde nach der ersten Auswertung ergänzt;
+   Abschnitt 5.7 der Arbeit berichtet die Kennzahlen vor und nach ihrer Anwendung.
+
 ## Vorgehen (Szenario Beruf)
 
 1. Exakter Abgleich mit dem Alphabetischen Verzeichnis der Berufsbenennungen (BA, KldB 2010,
@@ -34,7 +46,7 @@ Festgelegt vor der Hauptdatenerhebung (nach dem Pilot, 15.11.2026).
    korrekt, 7 regelkonform, aber interpretationsabhängig (Regel 4: Tätigkeitsfeld statt Beruf),
    2 Verstöße gegen Regel 2. Die zugrunde liegenden Regeln wurden korrigiert und alle betroffenen
    Titel neu kodiert.
-5. Ergebnis: `codebook/beruf_codes.csv` (1588 Titel, 2250 Empfehlungen: 2025 BERUF, 198 WQ, 27 UNSPEZ).
+5. Ergebnis nach Regel 7: `codebook/beruf_codes.csv` (1588 Titel, 2250 Empfehlungen: 2010 BERUF, 215 WQ, 25 UNSPEZ; vor Regel 7: 2025 / 198 / 27).
 
 ## Sensitivitätsanalyse
 
