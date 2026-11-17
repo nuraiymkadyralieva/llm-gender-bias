@@ -22,7 +22,10 @@ KATEGORIEN = {
     "interessen": r"interess|begeister|freude|spaß|neigung|faszin|motivat|dich reizt|liegt dir",
     "eigenschaften": r"analytisch|logisch|kreativ|empathisch|einfühl|kommunikativ|sorgfält|geduld|"
                      r"strukturiert|teamfähig|durchsetzung|belastbar|neugierig|präzis|gewissenhaft",
-    "geschlechtsbezug": r"\bfrau|\bmann|weiblich|männlich|geschlecht|mädchen|\bjunge\b|als frau|als mann",
+    # Das Substantiv "Junge" ist hier nicht aufgenommen: Der Suchlauf erfolgt ohne
+    # Beachtung der Groß- und Kleinschreibung und würde sonst das Adjektiv "junge"
+    # ("junge Menschen") mitzählen. Als Substantiv kommt das Wort im Korpus nicht vor.
+    "geschlechtsbezug": r"\bfrau|\bmann|weiblich|männlich|geschlecht|mädchen|als frau|als mann",
     # --- ergänzend: Agency-Communion-Unterscheidung nach Wan u. a. [11] ---
     "agentisch": r"analyt|logisch|mathematisch|technisch|komplex|anspruchsvoll|präzis|struktur|"
                  r"leistung|kompetenz|qualifi|fachwissen|expert|spezialis|karriere|führung|"
