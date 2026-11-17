@@ -12,3 +12,9 @@ __pycache__/
 *.lof
 *.lot
 *.synctex.gz
+
+# Die wissenschaftliche Arbeit selbst gehoert nicht in dieses Repositorium
+*.pdf
+*.docx
+*.zip
+!codebook/quellen/*.pdf
