@@ -1,1 +1,14 @@
-requests>=2.31
+# Erhebung
+requests==2.34.2
+
+# Auswertung
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+openpyxl==3.1.5
+matplotlib==3.10.9
+
+# Die angegebenen Versionen sind die, mit denen die Tabellen in results/
+# erzeugt wurden. Die p-Werte haengen von der SciPy-Version ab, weil diese
+# entscheidet, ob der Wilcoxon-Test exakt oder per Normalapproximation
+# gerechnet wird. Getestet mit Python 3.10.
